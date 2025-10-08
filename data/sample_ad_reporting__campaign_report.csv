@@ -1,0 +1,501 @@
+source_relation,date_day,platform,account_id,account_name,campaign_id,campaign_name,clicks,impressions,spend,conversions,conversions_value
+ad_reporting__campaign_report,2024-01-01,google_ads,94864,Dunder Mifflin Google Ads Account 684,CAMP-9613,Holiday Deals - Notebooks,408,20159,564.16,74.84,8711.81
+ad_reporting__campaign_report,2024-01-01,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 570,CAMP-3146,Back to School - Notebooks,174,12586,124.96,8.44,1399.59
+ad_reporting__campaign_report,2024-01-01,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 187,CAMP-6020,Sustainability - Cardstock,379,25391,244.42,30.3,2403.08
+ad_reporting__campaign_report,2024-01-02,google_ads,94864,Dunder Mifflin Google Ads Account 365,CAMP-5387,Office Essentials - Envelopes,1248,34834,1203.4,175.04,30981.22
+ad_reporting__campaign_report,2024-01-02,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 643,CAMP-4480,Office Essentials - Cardstock,406,20488,202.09,23.81,1991.15
+ad_reporting__campaign_report,2024-01-02,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 619,CAMP-1824,Back to School - Eco Mugs,321,18846,238.49,28.06,3282.72
+ad_reporting__campaign_report,2024-01-03,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 204,CAMP-4153,Office Essentials - Eco Mugs,136,11327,81.68,9.89,896.26
+ad_reporting__campaign_report,2024-01-05,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 999,CAMP-3376,Back to School - Printer Paper,1046,38543,1430.6,97.77,17432.44
+ad_reporting__campaign_report,2024-01-06,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 805,CAMP-2983,Office Essentials - Envelopes,368,36766,246.62,24.67,4359.66
+ad_reporting__campaign_report,2024-01-07,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 484,CAMP-2451,Back to School - Eco Mugs,272,25371,178.13,18.0,1061.36
+ad_reporting__campaign_report,2024-01-07,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 741,CAMP-7849,Office Essentials - Notebooks,702,35953,481.24,39.73,3718.92
+ad_reporting__campaign_report,2024-01-08,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 450,CAMP-3144,Back to School - Printer Paper,900,15934,852.89,141.73,19716.24
+ad_reporting__campaign_report,2024-01-08,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 972,CAMP-1933,Bulk Discounts - Sticky Notes,324,21040,246.63,19.3,2261.22
+ad_reporting__campaign_report,2024-01-10,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 690,CAMP-2273,Brand Awareness - Cardstock,482,31047,319.99,59.2,11639.04
+ad_reporting__campaign_report,2024-01-10,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 660,CAMP-2145,Office Essentials - Printer Paper,154,18057,137.6,7.96,979.85
+ad_reporting__campaign_report,2024-01-10,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 142,CAMP-2037,Holiday Deals - Envelopes,80,7579,62.27,3.34,211.44
+ad_reporting__campaign_report,2024-01-10,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 144,CAMP-8794,Brand Awareness - Cardstock,508,40373,419.99,41.91,5846.1
+ad_reporting__campaign_report,2024-01-12,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 306,CAMP-9250,Back to School - Notebooks,644,37287,795.58,80.66,17096.05
+ad_reporting__campaign_report,2024-01-13,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 171,CAMP-3264,Brand Awareness - Envelopes,311,28662,208.98,23.76,3719.01
+ad_reporting__campaign_report,2024-01-15,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 992,CAMP-7352,Bulk Discounts - Eco Mugs,384,22724,424.09,48.33,5352.86
+ad_reporting__campaign_report,2024-01-16,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 173,CAMP-2564,Back to School - Sticky Notes,1025,26219,681.52,107.37,11267.1
+ad_reporting__campaign_report,2024-01-16,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 526,CAMP-3247,Sustainability - Cardstock,1406,78549,1683.83,99.64,14820.19
+ad_reporting__campaign_report,2024-01-16,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 186,CAMP-9688,Back to School - Eco Mugs,596,33739,647.05,35.48,2584.65
+ad_reporting__campaign_report,2024-01-16,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 870,CAMP-9416,Back to School - Envelopes,112,9615,85.52,9.95,985.77
+ad_reporting__campaign_report,2024-01-17,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 489,CAMP-6715,Sustainability - Notebooks,284,16073,257.71,32.05,4219.09
+ad_reporting__campaign_report,2024-01-17,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 388,CAMP-9692,Sustainability - Cardstock,96,5504,42.12,6.34,846.71
+ad_reporting__campaign_report,2024-01-18,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 273,CAMP-1787,Brand Awareness - Cardstock,725,55314,780.02,57.89,3879.51
+ad_reporting__campaign_report,2024-01-18,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 968,CAMP-9490,Back to School - Envelopes,888,35016,964.16,128.29,27626.85
+ad_reporting__campaign_report,2024-01-19,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 662,CAMP-3504,Brand Awareness - Notebooks,178,11475,80.48,7.15,1079.52
+ad_reporting__campaign_report,2024-01-20,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 331,CAMP-1646,Brand Awareness - Sticky Notes,728,18309,655.26,60.14,6713.59
+ad_reporting__campaign_report,2024-01-21,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 797,CAMP-7060,Bulk Discounts - Eco Mugs,763,23700,593.51,76.89,13375.85
+ad_reporting__campaign_report,2024-01-21,google_ads,94864,Dunder Mifflin Google Ads Account 984,CAMP-3284,Holiday Deals - Sticky Notes,665,26886,650.08,90.86,8496.24
+ad_reporting__campaign_report,2024-01-21,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 403,CAMP-7390,Bulk Discounts - Eco Mugs,1092,42255,680.13,104.8,20339.43
+ad_reporting__campaign_report,2024-01-22,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 997,CAMP-9849,Brand Awareness - Envelopes,237,25325,878.37,16.65,5180.51
+ad_reporting__campaign_report,2024-01-22,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 701,CAMP-8694,Bulk Discounts - Notebooks,213,22516,132.64,6.53,269.42
+ad_reporting__campaign_report,2024-01-24,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 729,CAMP-9729,Back to School - Eco Mugs,1208,72944,1448.29,142.51,15099.76
+ad_reporting__campaign_report,2024-01-25,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 660,CAMP-3845,Sustainability - Envelopes,381,33464,237.6,28.39,4847.92
+ad_reporting__campaign_report,2024-01-26,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 570,CAMP-5681,Holiday Deals - Printer Paper,665,41544,224.58,43.38,3974.78
+ad_reporting__campaign_report,2024-01-28,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 243,CAMP-6733,Brand Awareness - Envelopes,2272,49221,1803.09,176.01,26851.92
+ad_reporting__campaign_report,2024-01-28,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 983,CAMP-9509,Back to School - Notebooks,497,42669,293.19,30.95,2298.47
+ad_reporting__campaign_report,2024-01-29,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 345,CAMP-1163,Office Essentials - Envelopes,126,13951,605.93,9.6,2388.55
+ad_reporting__campaign_report,2024-01-29,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 384,CAMP-2884,Office Essentials - Printer Paper,110,15650,231.73,14.83,2592.5
+ad_reporting__campaign_report,2024-01-29,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 373,CAMP-1259,Office Essentials - Notebooks,532,33825,527.01,47.21,9578.3
+ad_reporting__campaign_report,2024-01-29,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 424,CAMP-5746,Bulk Discounts - Printer Paper,441,25954,336.06,47.72,6564.6
+ad_reporting__campaign_report,2024-01-30,google_ads,94864,Dunder Mifflin Google Ads Account 531,CAMP-4591,Brand Awareness - Eco Mugs,502,11737,553.06,42.71,8669.46
+ad_reporting__campaign_report,2024-01-31,google_ads,94864,Dunder Mifflin Google Ads Account 652,CAMP-9311,Office Essentials - Cardstock,1301,46299,1633.73,163.14,32792.06
+ad_reporting__campaign_report,2024-01-31,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 362,CAMP-6250,Bulk Discounts - Printer Paper,358,27429,759.49,36.9,14749.81
+ad_reporting__campaign_report,2024-01-31,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 447,CAMP-4406,Holiday Deals - Notebooks,187,13461,107.84,11.45,1000.45
+ad_reporting__campaign_report,2024-02-01,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 489,CAMP-5887,Holiday Deals - Eco Mugs,425,28294,301.49,49.38,9803.08
+ad_reporting__campaign_report,2024-02-01,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 187,CAMP-9781,Brand Awareness - Sticky Notes,447,39416,186.35,23.74,3742.11
+ad_reporting__campaign_report,2024-02-02,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 882,CAMP-7589,Office Essentials - Cardstock,1040,32339,1192.64,64.87,7640.2
+ad_reporting__campaign_report,2024-02-02,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 173,CAMP-7487,Holiday Deals - Notebooks,737,41012,544.62,74.25,7105.16
+ad_reporting__campaign_report,2024-02-02,google_ads,94864,Dunder Mifflin Google Ads Account 300,CAMP-4786,Sustainability - Sticky Notes,2063,41774,1774.24,218.34,22838.63
+ad_reporting__campaign_report,2024-02-02,google_ads,94864,Dunder Mifflin Google Ads Account 605,CAMP-7843,Back to School - Cardstock,1934,41082,1962.87,196.68,21106.58
+ad_reporting__campaign_report,2024-02-02,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 674,CAMP-9757,Holiday Deals - Notebooks,163,15459,702.63,17.26,6392.97
+ad_reporting__campaign_report,2024-02-02,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 880,CAMP-5174,Back to School - Cardstock,698,23395,690.71,61.24,10425.96
+ad_reporting__campaign_report,2024-02-03,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 546,CAMP-3542,Office Essentials - Sticky Notes,16,1000,16.15,0.92,113.37
+ad_reporting__campaign_report,2024-02-03,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 465,CAMP-7635,Bulk Discounts - Cardstock,966,32979,1229.73,94.66,21309.36
+ad_reporting__campaign_report,2024-02-04,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 504,CAMP-7091,Back to School - Sticky Notes,337,26283,400.65,19.27,2654.82
+ad_reporting__campaign_report,2024-02-05,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 609,CAMP-4666,Office Essentials - Cardstock,1236,68869,887.46,146.75,13080.61
+ad_reporting__campaign_report,2024-02-06,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 694,CAMP-1725,Office Essentials - Eco Mugs,551,50389,373.26,40.84,2051.67
+ad_reporting__campaign_report,2024-02-06,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 290,CAMP-4129,Brand Awareness - Cardstock,812,44530,294.77,38.4,3359.75
+ad_reporting__campaign_report,2024-02-06,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 573,CAMP-9588,Back to School - Sticky Notes,487,24934,194.81,34.64,2766.61
+ad_reporting__campaign_report,2024-02-07,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 956,CAMP-3439,Bulk Discounts - Cardstock,432,25100,417.26,33.91,2612.75
+ad_reporting__campaign_report,2024-02-08,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 908,CAMP-9564,Office Essentials - Sticky Notes,709,33138,736.4,76.61,6724.85
+ad_reporting__campaign_report,2024-02-09,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 507,CAMP-6804,Brand Awareness - Envelopes,1730,38334,1876.58,207.95,31518.67
+ad_reporting__campaign_report,2024-02-10,google_ads,94864,Dunder Mifflin Google Ads Account 369,CAMP-9311,Back to School - Sticky Notes,1431,39532,1907.29,152.97,27440.61
+ad_reporting__campaign_report,2024-02-10,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 705,CAMP-9680,Sustainability - Cardstock,439,40327,356.1,38.76,3598.52
+ad_reporting__campaign_report,2024-02-11,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 274,CAMP-3579,Holiday Deals - Notebooks,484,11887,388.99,79.46,12919.09
+ad_reporting__campaign_report,2024-02-11,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 188,CAMP-5539,Bulk Discounts - Printer Paper,1397,25825,910.04,113.92,10459.33
+ad_reporting__campaign_report,2024-02-11,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 822,CAMP-4496,Sustainability - Printer Paper,435,30744,267.82,16.64,681.68
+ad_reporting__campaign_report,2024-02-13,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 844,CAMP-2487,Back to School - Eco Mugs,509,42450,332.3,39.53,3860.7
+ad_reporting__campaign_report,2024-02-14,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 507,CAMP-4003,Office Essentials - Sticky Notes,657,43390,527.26,36.19,4046.91
+ad_reporting__campaign_report,2024-02-16,google_ads,94864,Dunder Mifflin Google Ads Account 746,CAMP-3360,Sustainability - Cardstock,673,21524,632.27,92.09,20807.18
+ad_reporting__campaign_report,2024-02-16,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 351,CAMP-2062,Brand Awareness - Eco Mugs,580,19912,804.77,82.98,17740.44
+ad_reporting__campaign_report,2024-02-17,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 225,CAMP-2447,Back to School - Eco Mugs,376,30535,102.81,28.75,2302.15
+ad_reporting__campaign_report,2024-02-18,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 772,CAMP-8983,Holiday Deals - Cardstock,532,19313,695.11,66.15,15231.54
+ad_reporting__campaign_report,2024-02-18,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 600,CAMP-5671,Back to School - Printer Paper,454,24867,287.66,26.7,1702.29
+ad_reporting__campaign_report,2024-02-19,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 874,CAMP-2416,Sustainability - Notebooks,972,33628,1338.0,95.53,10254.44
+ad_reporting__campaign_report,2024-02-19,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 865,CAMP-2762,Sustainability - Envelopes,952,36581,918.63,105.19,13994.09
+ad_reporting__campaign_report,2024-02-21,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 334,CAMP-3250,Holiday Deals - Notebooks,464,25575,456.09,66.57,11458.32
+ad_reporting__campaign_report,2024-02-21,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 405,CAMP-2592,Holiday Deals - Printer Paper,268,25738,86.89,21.02,1255.29
+ad_reporting__campaign_report,2024-02-22,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 164,CAMP-1048,Office Essentials - Envelopes,672,42947,637.33,50.51,7050.55
+ad_reporting__campaign_report,2024-02-23,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 705,CAMP-1616,Brand Awareness - Sticky Notes,1006,29294,904.21,85.34,13103.36
+ad_reporting__campaign_report,2024-02-24,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 477,CAMP-9275,Brand Awareness - Sticky Notes,1295,28319,943.42,83.15,13304.97
+ad_reporting__campaign_report,2024-02-25,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 700,CAMP-7104,Brand Awareness - Notebooks,607,34480,407.03,28.89,1646.62
+ad_reporting__campaign_report,2024-02-26,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 139,CAMP-4058,Bulk Discounts - Sticky Notes,298,38570,1504.08,25.37,4226.02
+ad_reporting__campaign_report,2024-02-26,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 326,CAMP-1944,Bulk Discounts - Eco Mugs,714,43635,312.82,40.16,4707.82
+ad_reporting__campaign_report,2024-02-26,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 480,CAMP-7359,Bulk Discounts - Eco Mugs,555,38557,512.41,41.61,3422.0
+ad_reporting__campaign_report,2024-02-28,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 375,CAMP-6281,Bulk Discounts - Notebooks,123,12592,103.29,8.76,946.2
+ad_reporting__campaign_report,2024-02-29,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 345,CAMP-9218,Brand Awareness - Envelopes,638,41138,650.6,44.32,5006.6
+ad_reporting__campaign_report,2024-02-29,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 602,CAMP-5319,Holiday Deals - Sticky Notes,443,33882,2233.6,33.5,8938.34
+ad_reporting__campaign_report,2024-02-29,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 549,CAMP-5284,Holiday Deals - Cardstock,290,29072,209.5,18.47,966.54
+ad_reporting__campaign_report,2024-03-02,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 887,CAMP-4827,Brand Awareness - Printer Paper,269,27936,129.39,12.03,593.93
+ad_reporting__campaign_report,2024-03-04,google_ads,94864,Dunder Mifflin Google Ads Account 104,CAMP-7348,Office Essentials - Printer Paper,1441,31737,1506.72,239.45,31587.62
+ad_reporting__campaign_report,2024-03-04,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 233,CAMP-5989,Sustainability - Cardstock,276,25561,211.99,11.82,1096.12
+ad_reporting__campaign_report,2024-03-05,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 739,CAMP-9758,Bulk Discounts - Printer Paper,511,20937,343.72,67.12,12628.97
+ad_reporting__campaign_report,2024-03-05,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 467,CAMP-9569,Back to School - Sticky Notes,889,46091,315.86,49.92,4074.3
+ad_reporting__campaign_report,2024-03-06,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 324,CAMP-8040,Sustainability - Notebooks,1561,37359,1577.93,133.81,20440.37
+ad_reporting__campaign_report,2024-03-07,google_ads,94864,Dunder Mifflin Google Ads Account 922,CAMP-6832,Back to School - Envelopes,1699,47111,2283.82,238.99,29376.31
+ad_reporting__campaign_report,2024-03-07,google_ads,94864,Dunder Mifflin Google Ads Account 233,CAMP-8879,Sustainability - Notebooks,909,30973,696.23,139.54,24335.12
+ad_reporting__campaign_report,2024-03-09,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 737,CAMP-7898,Brand Awareness - Envelopes,416,27225,170.63,25.65,3073.57
+ad_reporting__campaign_report,2024-03-10,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 168,CAMP-3318,Back to School - Sticky Notes,986,28501,550.09,131.05,16970.4
+ad_reporting__campaign_report,2024-03-10,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 287,CAMP-1724,Holiday Deals - Printer Paper,621,35635,612.2,74.86,17655.11
+ad_reporting__campaign_report,2024-03-10,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 457,CAMP-5852,Sustainability - Sticky Notes,142,8597,36.41,9.53,1085.04
+ad_reporting__campaign_report,2024-03-11,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 816,CAMP-1320,Office Essentials - Sticky Notes,1117,19074,778.41,84.05,15785.47
+ad_reporting__campaign_report,2024-03-11,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 229,CAMP-8553,Holiday Deals - Sticky Notes,283,26517,155.62,28.0,2299.87
+ad_reporting__campaign_report,2024-03-11,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 986,CAMP-9026,Brand Awareness - Eco Mugs,413,36503,276.69,40.63,2687.83
+ad_reporting__campaign_report,2024-03-12,google_ads,94864,Dunder Mifflin Google Ads Account 924,CAMP-9242,Back to School - Sticky Notes,1101,32378,1047.88,91.52,12291.47
+ad_reporting__campaign_report,2024-03-12,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 359,CAMP-5683,Bulk Discounts - Notebooks,443,39882,222.09,22.3,1917.63
+ad_reporting__campaign_report,2024-03-13,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 850,CAMP-9284,Brand Awareness - Sticky Notes,2090,43835,2416.11,268.77,25136.27
+ad_reporting__campaign_report,2024-03-13,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 534,CAMP-6691,Holiday Deals - Eco Mugs,1107,63198,604.22,60.49,8904.57
+ad_reporting__campaign_report,2024-03-14,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 384,CAMP-4607,Office Essentials - Cardstock,344,29097,236.54,28.86,4191.29
+ad_reporting__campaign_report,2024-03-14,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 791,CAMP-2478,Sustainability - Notebooks,769,35747,726.98,67.21,16653.65
+ad_reporting__campaign_report,2024-03-15,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 947,CAMP-7949,Brand Awareness - Eco Mugs,269,22949,242.03,25.03,2822.3
+ad_reporting__campaign_report,2024-03-17,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 944,CAMP-3296,Sustainability - Cardstock,607,54213,594.99,40.19,5020.25
+ad_reporting__campaign_report,2024-03-19,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 145,CAMP-5443,Holiday Deals - Printer Paper,263,25927,115.4,11.89,1531.4
+ad_reporting__campaign_report,2024-03-20,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 662,CAMP-9984,Back to School - Printer Paper,314,29647,129.53,16.43,1304.17
+ad_reporting__campaign_report,2024-03-22,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 137,CAMP-7233,Office Essentials - Cardstock,245,28753,165.01,15.23,897.58
+ad_reporting__campaign_report,2024-03-25,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 257,CAMP-3070,Bulk Discounts - Envelopes,2080,47689,1437.06,142.96,16398.95
+ad_reporting__campaign_report,2024-03-25,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 798,CAMP-3365,Bulk Discounts - Cardstock,366,25541,211.05,28.86,2389.33
+ad_reporting__campaign_report,2024-03-26,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 176,CAMP-9664,Office Essentials - Eco Mugs,623,12585,541.63,74.94,8403.03
+ad_reporting__campaign_report,2024-03-26,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 111,CAMP-6716,Holiday Deals - Eco Mugs,1139,73975,1206.34,86.54,8105.06
+ad_reporting__campaign_report,2024-03-26,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 524,CAMP-2926,Sustainability - Eco Mugs,390,29112,100.33,17.08,1283.4
+ad_reporting__campaign_report,2024-03-28,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 165,CAMP-8326,Holiday Deals - Sticky Notes,841,22893,601.02,131.27,14178.42
+ad_reporting__campaign_report,2024-03-28,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 388,CAMP-7430,Holiday Deals - Envelopes,270,25664,209.43,20.83,2833.78
+ad_reporting__campaign_report,2024-03-30,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 758,CAMP-8618,Sustainability - Envelopes,265,23021,1089.79,37.05,7436.71
+ad_reporting__campaign_report,2024-03-30,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 126,CAMP-8725,Office Essentials - Printer Paper,705,30845,744.0,82.25,9242.9
+ad_reporting__campaign_report,2024-03-31,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 939,CAMP-2593,Holiday Deals - Printer Paper,671,47281,207.99,41.81,3244.78
+ad_reporting__campaign_report,2024-03-31,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 235,CAMP-6188,Brand Awareness - Printer Paper,474,36245,276.89,41.45,4835.5
+ad_reporting__campaign_report,2024-04-01,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 307,CAMP-6284,Bulk Discounts - Eco Mugs,444,29729,406.53,18.03,1307.87
+ad_reporting__campaign_report,2024-04-02,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 991,CAMP-9485,Sustainability - Sticky Notes,549,46484,649.65,58.28,7989.88
+ad_reporting__campaign_report,2024-04-04,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 626,CAMP-9998,Brand Awareness - Notebooks,343,24897,198.84,22.08,1357.58
+ad_reporting__campaign_report,2024-04-07,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 375,CAMP-8369,Holiday Deals - Sticky Notes,787,18460,785.98,102.41,13841.8
+ad_reporting__campaign_report,2024-04-08,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 579,CAMP-5274,Brand Awareness - Printer Paper,264,21509,90.24,13.64,901.44
+ad_reporting__campaign_report,2024-04-08,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 620,CAMP-4118,Office Essentials - Envelopes,485,28889,448.73,34.79,2642.93
+ad_reporting__campaign_report,2024-04-10,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 765,CAMP-9511,Office Essentials - Sticky Notes,1760,47480,2056.15,176.35,33297.22
+ad_reporting__campaign_report,2024-04-11,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 128,CAMP-6501,Back to School - Cardstock,294,24581,96.37,11.73,1121.56
+ad_reporting__campaign_report,2024-04-12,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 453,CAMP-4854,Holiday Deals - Eco Mugs,209,22838,120.79,9.46,1085.86
+ad_reporting__campaign_report,2024-04-14,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 881,CAMP-7533,Sustainability - Printer Paper,1399,29377,1253.54,162.04,20748.57
+ad_reporting__campaign_report,2024-04-15,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 256,CAMP-9110,Holiday Deals - Envelopes,1005,29831,712.07,83.57,7814.86
+ad_reporting__campaign_report,2024-04-16,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 332,CAMP-3288,Sustainability - Cardstock,677,53510,729.21,74.1,5711.05
+ad_reporting__campaign_report,2024-04-16,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 933,CAMP-7348,Brand Awareness - Envelopes,234,26862,133.23,12.96,699.11
+ad_reporting__campaign_report,2024-04-18,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 198,CAMP-9557,Bulk Discounts - Sticky Notes,661,32672,410.49,83.38,18755.1
+ad_reporting__campaign_report,2024-04-19,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 347,CAMP-7023,Bulk Discounts - Envelopes,647,29836,473.25,77.39,13637.92
+ad_reporting__campaign_report,2024-04-20,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 586,CAMP-2128,Back to School - Notebooks,625,53158,428.16,51.95,5367.43
+ad_reporting__campaign_report,2024-04-20,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 693,CAMP-8948,Bulk Discounts - Printer Paper,371,29326,174.79,27.62,1703.88
+ad_reporting__campaign_report,2024-04-21,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 755,CAMP-9959,Brand Awareness - Notebooks,669,25268,874.8,75.77,9088.53
+ad_reporting__campaign_report,2024-04-21,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 405,CAMP-4409,Holiday Deals - Notebooks,399,23666,279.05,36.21,6462.78
+ad_reporting__campaign_report,2024-04-22,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 133,CAMP-3119,Bulk Discounts - Envelopes,846,39154,829.18,110.96,17285.44
+ad_reporting__campaign_report,2024-04-22,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 345,CAMP-5188,Sustainability - Envelopes,490,13082,474.87,63.84,7368.78
+ad_reporting__campaign_report,2024-04-23,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 306,CAMP-1051,Brand Awareness - Eco Mugs,334,37563,1894.13,41.57,12575.06
+ad_reporting__campaign_report,2024-04-23,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 483,CAMP-3546,Holiday Deals - Eco Mugs,511,42929,231.05,29.94,1534.63
+ad_reporting__campaign_report,2024-04-25,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 334,CAMP-1087,Back to School - Cardstock,493,32270,417.22,26.48,1922.12
+ad_reporting__campaign_report,2024-04-25,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 437,CAMP-9392,Sustainability - Sticky Notes,1553,101317,1001.58,121.62,14324.17
+ad_reporting__campaign_report,2024-04-27,google_ads,94864,Dunder Mifflin Google Ads Account 311,CAMP-2499,Bulk Discounts - Notebooks,1913,44959,2077.1,177.99,37693.92
+ad_reporting__campaign_report,2024-04-28,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 860,CAMP-8688,Holiday Deals - Cardstock,1448,25368,939.69,158.99,24051.98
+ad_reporting__campaign_report,2024-04-28,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 335,CAMP-1614,Office Essentials - Eco Mugs,1464,50319,1764.79,113.81,26870.24
+ad_reporting__campaign_report,2024-04-29,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 197,CAMP-1665,Brand Awareness - Sticky Notes,462,10231,382.77,61.06,7916.83
+ad_reporting__campaign_report,2024-04-29,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 324,CAMP-1982,Brand Awareness - Cardstock,623,20296,353.24,86.14,7483.99
+ad_reporting__campaign_report,2024-04-30,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 219,CAMP-7587,Bulk Discounts - Envelopes,432,29309,387.86,25.41,1785.84
+ad_reporting__campaign_report,2024-05-01,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 596,CAMP-9672,Holiday Deals - Notebooks,60,4785,305.35,6.6,1432.11
+ad_reporting__campaign_report,2024-05-02,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 619,CAMP-7607,Office Essentials - Cardstock,503,21974,302.97,70.27,11968.0
+ad_reporting__campaign_report,2024-05-02,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 259,CAMP-8082,Bulk Discounts - Eco Mugs,798,27461,928.52,100.9,16305.36
+ad_reporting__campaign_report,2024-05-02,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 354,CAMP-7402,Holiday Deals - Envelopes,316,27852,251.57,23.67,1480.41
+ad_reporting__campaign_report,2024-05-03,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 147,CAMP-6663,Sustainability - Notebooks,670,51496,659.25,67.42,6736.24
+ad_reporting__campaign_report,2024-05-04,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 702,CAMP-3840,Office Essentials - Envelopes,1682,29826,1032.17,278.42,34352.61
+ad_reporting__campaign_report,2024-05-05,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 315,CAMP-5355,Holiday Deals - Sticky Notes,167,15458,550.63,20.72,4992.96
+ad_reporting__campaign_report,2024-05-08,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 441,CAMP-7707,Office Essentials - Notebooks,237,20590,968.71,16.99,4010.33
+ad_reporting__campaign_report,2024-05-08,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 728,CAMP-8243,Office Essentials - Envelopes,114,10586,41.57,8.55,580.22
+ad_reporting__campaign_report,2024-05-09,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 170,CAMP-9731,Holiday Deals - Notebooks,187,25535,524.27,15.81,4596.11
+ad_reporting__campaign_report,2024-05-10,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 127,CAMP-4101,Office Essentials - Notebooks,884,15795,463.13,101.46,8871.73
+ad_reporting__campaign_report,2024-05-11,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 575,CAMP-8108,Bulk Discounts - Eco Mugs,1076,46487,1134.89,86.52,12349.41
+ad_reporting__campaign_report,2024-05-11,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 791,CAMP-9414,Sustainability - Cardstock,789,15406,764.57,134.02,27988.46
+ad_reporting__campaign_report,2024-05-12,google_ads,94864,Dunder Mifflin Google Ads Account 969,CAMP-9282,Back to School - Sticky Notes,832,24218,592.96,150.83,21778.48
+ad_reporting__campaign_report,2024-05-12,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 450,CAMP-6139,Bulk Discounts - Sticky Notes,343,22932,241.01,30.99,2192.79
+ad_reporting__campaign_report,2024-05-13,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 120,CAMP-7833,Holiday Deals - Envelopes,367,33963,1297.36,49.19,15634.88
+ad_reporting__campaign_report,2024-05-13,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 490,CAMP-5948,Back to School - Sticky Notes,346,21240,283.02,30.88,2641.42
+ad_reporting__campaign_report,2024-05-13,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 926,CAMP-1739,Office Essentials - Envelopes,101,9050,82.49,4.57,527.55
+ad_reporting__campaign_report,2024-05-14,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 535,CAMP-4879,Back to School - Cardstock,790,16653,424.8,136.87,27094.36
+ad_reporting__campaign_report,2024-05-15,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 669,CAMP-7321,Office Essentials - Eco Mugs,537,25795,613.45,38.71,6628.4
+ad_reporting__campaign_report,2024-05-15,google_ads,94864,Dunder Mifflin Google Ads Account 347,CAMP-8894,Sustainability - Notebooks,1236,27424,923.54,155.58,24579.37
+ad_reporting__campaign_report,2024-05-15,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 105,CAMP-4211,Bulk Discounts - Sticky Notes,449,29706,287.07,36.71,3929.87
+ad_reporting__campaign_report,2024-05-15,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 422,CAMP-8334,Back to School - Envelopes,151,14631,59.91,7.64,505.91
+ad_reporting__campaign_report,2024-05-17,google_ads,94864,Dunder Mifflin Google Ads Account 961,CAMP-3305,Holiday Deals - Sticky Notes,829,35095,983.85,163.59,30739.88
+ad_reporting__campaign_report,2024-05-20,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 213,CAMP-9066,Holiday Deals - Envelopes,1331,28196,953.35,85.52,8140.05
+ad_reporting__campaign_report,2024-05-20,google_ads,94864,Dunder Mifflin Google Ads Account 311,CAMP-2936,Holiday Deals - Cardstock,967,30964,1300.01,103.91,23568.69
+ad_reporting__campaign_report,2024-05-20,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 445,CAMP-4470,Bulk Discounts - Envelopes,347,23896,729.72,42.66,14698.57
+ad_reporting__campaign_report,2024-05-21,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 983,CAMP-2443,Sustainability - Notebooks,714,23832,566.44,88.49,15618.59
+ad_reporting__campaign_report,2024-05-22,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 746,CAMP-1874,Brand Awareness - Printer Paper,773,20022,397.99,92.94,17537.9
+ad_reporting__campaign_report,2024-05-22,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 790,CAMP-1734,Office Essentials - Sticky Notes,389,33978,225.56,25.26,2337.57
+ad_reporting__campaign_report,2024-05-25,google_ads,94864,Dunder Mifflin Google Ads Account 364,CAMP-9327,Back to School - Sticky Notes,1416,32024,1958.91,162.64,21472.03
+ad_reporting__campaign_report,2024-05-26,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 378,CAMP-4357,Office Essentials - Eco Mugs,1167,67745,1093.38,124.44,13133.72
+ad_reporting__campaign_report,2024-05-28,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 979,CAMP-1311,Office Essentials - Eco Mugs,383,27438,1492.62,49.93,9510.46
+ad_reporting__campaign_report,2024-05-29,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 997,CAMP-3145,Bulk Discounts - Envelopes,1094,25673,732.83,147.65,20335.44
+ad_reporting__campaign_report,2024-06-01,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 277,CAMP-8233,Back to School - Printer Paper,672,42208,698.21,80.14,10087.49
+ad_reporting__campaign_report,2024-06-01,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 292,CAMP-5970,Brand Awareness - Printer Paper,982,47196,815.6,83.27,8388.86
+ad_reporting__campaign_report,2024-06-02,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 259,CAMP-9215,Brand Awareness - Envelopes,648,47967,362.9,39.19,5538.0
+ad_reporting__campaign_report,2024-06-02,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 588,CAMP-6675,Bulk Discounts - Cardstock,162,14440,700.04,20.6,5431.24
+ad_reporting__campaign_report,2024-06-04,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 905,CAMP-2316,Brand Awareness - Cardstock,914,33031,758.67,68.31,9532.51
+ad_reporting__campaign_report,2024-06-06,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 700,CAMP-9503,Sustainability - Eco Mugs,454,25723,356.99,40.96,4609.35
+ad_reporting__campaign_report,2024-06-08,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 614,CAMP-4452,Office Essentials - Cardstock,401,31826,212.7,39.5,2470.89
+ad_reporting__campaign_report,2024-06-09,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 951,CAMP-7863,Holiday Deals - Envelopes,171,19938,353.35,21.1,4973.05
+ad_reporting__campaign_report,2024-06-10,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 568,CAMP-7055,Holiday Deals - Cardstock,494,31903,550.55,34.41,4935.68
+ad_reporting__campaign_report,2024-06-11,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 875,CAMP-4080,Office Essentials - Sticky Notes,463,26398,234.23,30.13,3093.43
+ad_reporting__campaign_report,2024-06-11,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 813,CAMP-2077,Holiday Deals - Envelopes,215,16070,101.72,18.61,2770.29
+ad_reporting__campaign_report,2024-06-12,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 484,CAMP-2364,Sustainability - Cardstock,252,24204,1254.15,33.47,8157.25
+ad_reporting__campaign_report,2024-06-12,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 564,CAMP-7836,Sustainability - Printer Paper,954,38035,1194.06,114.53,17014.56
+ad_reporting__campaign_report,2024-06-12,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 786,CAMP-4871,Brand Awareness - Printer Paper,384,22852,193.95,20.35,903.95
+ad_reporting__campaign_report,2024-06-12,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 323,CAMP-4604,Brand Awareness - Notebooks,376,24262,362.65,27.48,1939.0
+ad_reporting__campaign_report,2024-06-13,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 188,CAMP-7840,Holiday Deals - Envelopes,221,22810,1073.98,15.17,4629.49
+ad_reporting__campaign_report,2024-06-13,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 638,CAMP-9497,Sustainability - Eco Mugs,434,38898,329.84,35.14,5759.1
+ad_reporting__campaign_report,2024-06-14,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 184,CAMP-2141,Back to School - Notebooks,292,19331,222.16,21.97,3123.32
+ad_reporting__campaign_report,2024-06-14,google_ads,94864,Dunder Mifflin Google Ads Account 417,CAMP-2364,Holiday Deals - Eco Mugs,366,12356,479.52,43.67,4630.69
+ad_reporting__campaign_report,2024-06-15,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 459,CAMP-2228,Back to School - Cardstock,708,41912,296.24,68.67,8917.87
+ad_reporting__campaign_report,2024-06-15,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 997,CAMP-1007,Holiday Deals - Notebooks,601,36553,247.89,41.64,2914.87
+ad_reporting__campaign_report,2024-06-16,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 732,CAMP-5675,Sustainability - Eco Mugs,498,32398,256.75,35.79,2546.17
+ad_reporting__campaign_report,2024-06-17,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 409,CAMP-6618,Bulk Discounts - Cardstock,266,18160,943.81,27.36,5500.29
+ad_reporting__campaign_report,2024-06-17,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 813,CAMP-8687,Bulk Discounts - Notebooks,281,27534,164.77,22.19,1835.66
+ad_reporting__campaign_report,2024-06-18,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 366,CAMP-2458,Back to School - Eco Mugs,175,11163,78.4,12.95,1239.82
+ad_reporting__campaign_report,2024-06-20,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 884,CAMP-7738,Back to School - Printer Paper,1901,48619,1289.61,206.28,31857.47
+ad_reporting__campaign_report,2024-06-20,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 588,CAMP-7105,Holiday Deals - Cardstock,709,41242,424.49,69.09,5144.97
+ad_reporting__campaign_report,2024-06-20,google_ads,94864,Dunder Mifflin Google Ads Account 341,CAMP-9327,Back to School - Eco Mugs,996,27064,1095.29,133.16,13407.44
+ad_reporting__campaign_report,2024-06-21,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 198,CAMP-4081,Office Essentials - Eco Mugs,289,30264,118.74,22.15,1141.74
+ad_reporting__campaign_report,2024-06-21,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 915,CAMP-9970,Back to School - Notebooks,527,30898,185.54,27.5,2034.49
+ad_reporting__campaign_report,2024-06-22,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 423,CAMP-6698,Sustainability - Notebooks,999,58419,1180.3,65.66,4768.55
+ad_reporting__campaign_report,2024-06-22,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 631,CAMP-4370,Holiday Deals - Notebooks,374,29866,257.29,28.23,4612.28
+ad_reporting__campaign_report,2024-06-22,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 128,CAMP-9290,Bulk Discounts - Envelopes,701,53311,402.74,40.54,4488.74
+ad_reporting__campaign_report,2024-06-22,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 565,CAMP-7522,Bulk Discounts - Envelopes,571,35289,268.65,47.3,6147.93
+ad_reporting__campaign_report,2024-06-23,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 927,CAMP-1760,Holiday Deals - Printer Paper,354,16194,326.14,48.32,4635.15
+ad_reporting__campaign_report,2024-06-23,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 999,CAMP-4188,Brand Awareness - Cardstock,864,44602,566.55,57.15,3410.99
+ad_reporting__campaign_report,2024-06-24,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 367,CAMP-7615,Bulk Discounts - Cardstock,789,34140,1060.47,121.32,19550.6
+ad_reporting__campaign_report,2024-06-25,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 443,CAMP-2184,Back to School - Cardstock,361,23753,321.52,16.37,2754.03
+ad_reporting__campaign_report,2024-06-25,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 469,CAMP-5719,Holiday Deals - Printer Paper,811,45591,538.18,42.69,2794.45
+ad_reporting__campaign_report,2024-06-28,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 192,CAMP-3909,Bulk Discounts - Cardstock,244,26776,176.04,14.79,961.11
+ad_reporting__campaign_report,2024-06-30,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 544,CAMP-1847,Holiday Deals - Envelopes,1387,24653,1247.05,230.52,37831.02
+ad_reporting__campaign_report,2024-07-01,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 714,CAMP-6279,Bulk Discounts - Eco Mugs,381,23021,159.24,35.91,5997.01
+ad_reporting__campaign_report,2024-07-02,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 741,CAMP-7546,Sustainability - Printer Paper,646,21365,534.56,45.83,8310.67
+ad_reporting__campaign_report,2024-07-03,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 200,CAMP-7393,Bulk Discounts - Eco Mugs,1231,48461,1439.65,108.96,16074.66
+ad_reporting__campaign_report,2024-07-03,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 444,CAMP-2961,Sustainability - Eco Mugs,566,42090,154.87,33.34,3318.6
+ad_reporting__campaign_report,2024-07-06,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 204,CAMP-9142,Brand Awareness - Eco Mugs,1089,34699,1289.15,119.1,15774.62
+ad_reporting__campaign_report,2024-07-07,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 899,CAMP-4133,Brand Awareness - Envelopes,1688,28772,913.46,291.97,60273.92
+ad_reporting__campaign_report,2024-07-07,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 530,CAMP-5867,Holiday Deals - Eco Mugs,1134,48291,846.24,137.81,13829.03
+ad_reporting__campaign_report,2024-07-07,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 530,CAMP-3114,Sustainability - Notebooks,149,14521,124.44,11.76,726.03
+ad_reporting__campaign_report,2024-07-08,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 724,CAMP-8994,Office Essentials - Printer Paper,181,3372,155.33,25.02,3549.86
+ad_reporting__campaign_report,2024-07-08,google_ads,94864,Dunder Mifflin Google Ads Account 132,CAMP-2484,Bulk Discounts - Notebooks,1258,40634,1076.92,123.59,12396.8
+ad_reporting__campaign_report,2024-07-09,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 263,CAMP-1590,Office Essentials - Sticky Notes,514,28989,469.1,52.42,6670.73
+ad_reporting__campaign_report,2024-07-09,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 669,CAMP-6305,Bulk Discounts - Notebooks,261,30448,129.19,19.37,1633.74
+ad_reporting__campaign_report,2024-07-10,google_ads,94864,Dunder Mifflin Google Ads Account 754,CAMP-5574,Office Essentials - Eco Mugs,840,17697,1096.26,148.42,18882.33
+ad_reporting__campaign_report,2024-07-10,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 119,CAMP-5818,Sustainability - Envelopes,244,20020,132.05,16.1,889.75
+ad_reporting__campaign_report,2024-07-11,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 696,CAMP-7424,Bulk Discounts - Eco Mugs,1017,39755,1223.09,108.88,21846.1
+ad_reporting__campaign_report,2024-07-12,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 415,CAMP-7578,Sustainability - Printer Paper,838,23837,795.16,78.48,9406.76
+ad_reporting__campaign_report,2024-07-13,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 433,CAMP-1982,Holiday Deals - Printer Paper,606,13232,579.41,108.88,17147.37
+ad_reporting__campaign_report,2024-07-13,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 968,CAMP-3642,Sustainability - Notebooks,283,18388,174.48,23.75,3071.3
+ad_reporting__campaign_report,2024-07-14,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 326,CAMP-4094,Office Essentials - Eco Mugs,244,25645,140.45,11.02,914.22
+ad_reporting__campaign_report,2024-07-14,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 641,CAMP-9620,Holiday Deals - Eco Mugs,530,28157,186.64,27.56,2277.84
+ad_reporting__campaign_report,2024-07-15,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 456,CAMP-6521,Bulk Discounts - Envelopes,213,15161,148.12,23.03,2140.65
+ad_reporting__campaign_report,2024-07-16,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 767,CAMP-2049,Brand Awareness - Eco Mugs,704,62198,650.26,58.8,6107.04
+ad_reporting__campaign_report,2024-07-16,google_ads,94864,Dunder Mifflin Google Ads Account 345,CAMP-1400,Bulk Discounts - Printer Paper,629,26455,916.75,53.34,6447.37
+ad_reporting__campaign_report,2024-07-16,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 963,CAMP-5100,Bulk Discounts - Eco Mugs,288,20836,96.16,19.38,1521.55
+ad_reporting__campaign_report,2024-07-17,google_ads,94864,Dunder Mifflin Google Ads Account 512,CAMP-3243,Holiday Deals - Sticky Notes,1461,52095,2137.66,207.83,28007.44
+ad_reporting__campaign_report,2024-07-17,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 822,CAMP-8925,Sustainability - Notebooks,148,18523,407.81,10.13,3561.69
+ad_reporting__campaign_report,2024-07-18,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 117,CAMP-1907,Brand Awareness - Sticky Notes,557,29027,334.75,43.72,7144.91
+ad_reporting__campaign_report,2024-07-18,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 577,CAMP-2578,Holiday Deals - Printer Paper,617,48013,312.85,19.16,1161.35
+ad_reporting__campaign_report,2024-07-18,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 961,CAMP-1769,Back to School - Eco Mugs,294,16391,283.07,18.54,1179.23
+ad_reporting__campaign_report,2024-07-19,google_ads,94864,Dunder Mifflin Google Ads Account 799,CAMP-9804,Holiday Deals - Printer Paper,1802,42135,2198.99,214.45,23395.71
+ad_reporting__campaign_report,2024-07-19,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 312,CAMP-1625,Office Essentials - Sticky Notes,586,32641,764.93,70.59,17046.8
+ad_reporting__campaign_report,2024-07-19,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 992,CAMP-7373,Brand Awareness - Envelopes,285,19253,244.27,19.55,2354.19
+ad_reporting__campaign_report,2024-07-20,google_ads,94864,Dunder Mifflin Google Ads Account 830,CAMP-4643,Holiday Deals - Envelopes,1379,39181,1792.56,241.85,28682.85
+ad_reporting__campaign_report,2024-07-20,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 822,CAMP-5393,Holiday Deals - Printer Paper,307,34219,172.52,25.6,3243.75
+ad_reporting__campaign_report,2024-07-21,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 972,CAMP-5968,Sustainability - Printer Paper,775,45950,925.04,49.72,5620.18
+ad_reporting__campaign_report,2024-07-21,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 981,CAMP-9872,Office Essentials - Printer Paper,396,30027,216.85,20.0,3292.86
+ad_reporting__campaign_report,2024-07-22,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 899,CAMP-7717,Sustainability - Sticky Notes,839,20973,833.41,81.17,11890.26
+ad_reporting__campaign_report,2024-07-22,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 752,CAMP-6915,Holiday Deals - Envelopes,203,12761,209.28,12.21,1724.57
+ad_reporting__campaign_report,2024-07-22,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 538,CAMP-2596,Holiday Deals - Printer Paper,693,44131,396.18,34.17,2189.76
+ad_reporting__campaign_report,2024-07-23,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 498,CAMP-9156,Brand Awareness - Envelopes,1108,77339,1133.08,126.99,9338.89
+ad_reporting__campaign_report,2024-07-23,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 953,CAMP-9610,Holiday Deals - Eco Mugs,740,40969,301.17,35.26,2488.87
+ad_reporting__campaign_report,2024-07-24,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 707,CAMP-3121,Bulk Discounts - Envelopes,669,33237,419.78,74.57,6922.96
+ad_reporting__campaign_report,2024-07-25,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 275,CAMP-6811,Office Essentials - Cardstock,281,14199,185.05,43.6,8843.59
+ad_reporting__campaign_report,2024-07-26,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 646,CAMP-2746,Sustainability - Eco Mugs,574,31065,286.31,30.95,2978.93
+ad_reporting__campaign_report,2024-07-26,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 498,CAMP-7376,Bulk Discounts - Eco Mugs,297,22378,197.76,29.3,3796.71
+ad_reporting__campaign_report,2024-07-27,google_ads,94864,Dunder Mifflin Google Ads Account 433,CAMP-8752,Bulk Discounts - Sticky Notes,2315,53481,2044.52,253.67,27852.67
+ad_reporting__campaign_report,2024-07-29,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 186,CAMP-5906,Sustainability - Envelopes,217,17150,115.07,13.71,1519.01
+ad_reporting__campaign_report,2024-07-29,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 704,CAMP-4345,Office Essentials - Notebooks,421,35099,189.23,26.29,4325.6
+ad_reporting__campaign_report,2024-07-30,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 605,CAMP-4451,Back to School - Notebooks,210,22334,1053.67,19.28,7450.48
+ad_reporting__campaign_report,2024-07-31,google_ads,94864,Dunder Mifflin Google Ads Account 426,CAMP-3283,Holiday Deals - Sticky Notes,1374,28607,995.39,229.33,42973.58
+ad_reporting__campaign_report,2024-08-01,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 917,CAMP-4323,Office Essentials - Notebooks,371,21846,332.62,25.69,4349.72
+ad_reporting__campaign_report,2024-08-02,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 613,CAMP-7231,Office Essentials - Cardstock,266,17019,238.05,20.88,1081.8
+ad_reporting__campaign_report,2024-08-02,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 909,CAMP-2768,Sustainability - Eco Mugs,524,24067,197.68,26.66,2067.61
+ad_reporting__campaign_report,2024-08-03,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 350,CAMP-5071,Sustainability - Eco Mugs,713,30452,743.48,72.18,8132.58
+ad_reporting__campaign_report,2024-08-04,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 899,CAMP-5717,Bulk Discounts - Notebooks,344,23966,279.2,21.08,3459.81
+ad_reporting__campaign_report,2024-08-04,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 308,CAMP-9481,Sustainability - Eco Mugs,587,39700,381.8,40.21,6328.98
+ad_reporting__campaign_report,2024-08-05,google_ads,94864,Dunder Mifflin Google Ads Account 876,CAMP-3061,Sustainability - Eco Mugs,877,35152,1274.93,140.26,17824.86
+ad_reporting__campaign_report,2024-08-05,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 955,CAMP-8745,Brand Awareness - Cardstock,726,41648,635.2,49.08,5913.02
+ad_reporting__campaign_report,2024-08-06,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 738,CAMP-9036,Office Essentials - Printer Paper,822,19745,487.06,67.35,7659.88
+ad_reporting__campaign_report,2024-08-06,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 783,CAMP-1255,Holiday Deals - Sticky Notes,1177,71148,755.17,110.02,13543.02
+ad_reporting__campaign_report,2024-08-06,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 619,CAMP-8747,Office Essentials - Printer Paper,610,35929,774.41,66.26,13487.75
+ad_reporting__campaign_report,2024-08-06,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 662,CAMP-5020,Brand Awareness - Sticky Notes,192,18510,113.37,12.55,1254.57
+ad_reporting__campaign_report,2024-08-07,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 720,CAMP-8378,Brand Awareness - Printer Paper,859,33709,830.18,114.05,28219.0
+ad_reporting__campaign_report,2024-08-08,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 292,CAMP-8112,Bulk Discounts - Eco Mugs,1620,45626,1089.37,132.54,17926.33
+ad_reporting__campaign_report,2024-08-09,google_ads,94864,Dunder Mifflin Google Ads Account 104,CAMP-9835,Brand Awareness - Envelopes,439,15223,559.2,58.31,10076.71
+ad_reporting__campaign_report,2024-08-10,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 237,CAMP-9636,Holiday Deals - Eco Mugs,528,25633,363.85,45.04,3281.01
+ad_reporting__campaign_report,2024-08-12,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 607,CAMP-4875,Back to School - Cardstock,130,2718,68.65,20.96,3755.8
+ad_reporting__campaign_report,2024-08-14,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 964,CAMP-8760,Holiday Deals - Eco Mugs,186,11412,157.73,14.29,2213.62
+ad_reporting__campaign_report,2024-08-15,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 744,CAMP-1018,Office Essentials - Envelopes,621,52887,351.86,48.01,3595.27
+ad_reporting__campaign_report,2024-08-16,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 804,CAMP-6984,Bulk Discounts - Envelopes,984,45625,910.75,108.28,26021.13
+ad_reporting__campaign_report,2024-08-17,google_ads,94864,Dunder Mifflin Google Ads Account 797,CAMP-4815,Brand Awareness - Cardstock,698,18402,748.98,61.94,14171.65
+ad_reporting__campaign_report,2024-08-18,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 409,CAMP-6096,Brand Awareness - Printer Paper,1680,42132,1371.98,195.0,28240.56
+ad_reporting__campaign_report,2024-08-18,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 432,CAMP-9634,Bulk Discounts - Sticky Notes,743,26515,580.43,59.65,10099.98
+ad_reporting__campaign_report,2024-08-18,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 212,CAMP-1679,Back to School - Printer Paper,410,23278,224.81,29.13,3486.63
+ad_reporting__campaign_report,2024-08-19,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 988,CAMP-8482,Sustainability - Notebooks,283,20270,157.83,20.07,1628.09
+ad_reporting__campaign_report,2024-08-23,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 724,CAMP-1505,Sustainability - Eco Mugs,292,19939,281.4,18.98,1885.67
+ad_reporting__campaign_report,2024-08-23,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 249,CAMP-8333,Sustainability - Envelopes,189,16580,108.19,11.85,542.99
+ad_reporting__campaign_report,2024-08-24,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 956,CAMP-8304,Bulk Discounts - Notebooks,694,33573,349.31,69.17,6490.0
+ad_reporting__campaign_report,2024-08-25,google_ads,94864,Dunder Mifflin Google Ads Account 257,CAMP-8906,Bulk Discounts - Eco Mugs,2032,54670,2451.42,243.11,31981.1
+ad_reporting__campaign_report,2024-08-26,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 560,CAMP-2556,Back to School - Sticky Notes,1877,40855,1293.47,225.03,42045.6
+ad_reporting__campaign_report,2024-08-27,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 162,CAMP-1075,Office Essentials - Envelopes,817,70681,740.32,59.65,5551.15
+ad_reporting__campaign_report,2024-08-30,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 449,CAMP-4617,Brand Awareness - Notebooks,168,13613,102.68,13.08,1552.18
+ad_reporting__campaign_report,2024-09-01,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 991,CAMP-5582,Holiday Deals - Cardstock,1852,59571,1672.17,114.82,12107.44
+ad_reporting__campaign_report,2024-09-01,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 460,CAMP-7587,Bulk Discounts - Cardstock,647,33241,599.95,68.35,10499.28
+ad_reporting__campaign_report,2024-09-01,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 261,CAMP-2832,Sustainability - Sticky Notes,276,22565,103.64,23.35,2173.09
+ad_reporting__campaign_report,2024-09-04,google_ads,94864,Dunder Mifflin Google Ads Account 388,CAMP-7284,Brand Awareness - Notebooks,915,37697,1055.51,113.83,13588.47
+ad_reporting__campaign_report,2024-09-05,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 170,CAMP-7091,Holiday Deals - Cardstock,871,55511,717.14,55.47,6634.51
+ad_reporting__campaign_report,2024-09-05,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 479,CAMP-7540,Sustainability - Printer Paper,699,44270,245.9,44.08,3599.72
+ad_reporting__campaign_report,2024-09-06,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 462,CAMP-6650,Sustainability - Notebooks,233,19821,237.69,21.5,2539.88
+ad_reporting__campaign_report,2024-09-06,google_ads,94864,Dunder Mifflin Google Ads Account 689,CAMP-8916,Sustainability - Notebooks,1772,35468,2557.81,216.34,38672.69
+ad_reporting__campaign_report,2024-09-06,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 893,CAMP-2372,Sustainability - Cardstock,224,17852,574.39,30.06,7916.86
+ad_reporting__campaign_report,2024-09-06,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 883,CAMP-1739,Office Essentials - Envelopes,304,29926,229.2,15.2,2036.35
+ad_reporting__campaign_report,2024-09-07,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 334,CAMP-1765,Holiday Deals - Envelopes,823,19151,616.89,124.78,11333.55
+ad_reporting__campaign_report,2024-09-07,google_ads,94864,Dunder Mifflin Google Ads Account 531,CAMP-3327,Holiday Deals - Sticky Notes,806,38840,788.77,112.77,25082.85
+ad_reporting__campaign_report,2024-09-08,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 767,CAMP-7927,Brand Awareness - Envelopes,319,23816,82.96,18.36,945.7
+ad_reporting__campaign_report,2024-09-10,google_ads,94864,Dunder Mifflin Google Ads Account 606,CAMP-5966,Back to School - Printer Paper,965,48254,1391.57,143.22,20650.55
+ad_reporting__campaign_report,2024-09-10,google_ads,94864,Dunder Mifflin Google Ads Account 357,CAMP-8791,Bulk Discounts - Envelopes,2131,45970,1607.1,226.16,40913.31
+ad_reporting__campaign_report,2024-09-10,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 766,CAMP-1826,Back to School - Printer Paper,262,31849,1017.94,21.01,7645.39
+ad_reporting__campaign_report,2024-09-11,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 379,CAMP-3841,Holiday Deals - Printer Paper,1516,34934,969.75,164.49,32088.79
+ad_reporting__campaign_report,2024-09-11,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 105,CAMP-1060,Holiday Deals - Notebooks,387,29659,248.07,17.66,1143.1
+ad_reporting__campaign_report,2024-09-12,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 483,CAMP-7591,Bulk Discounts - Envelopes,293,25333,239.61,21.13,2889.82
+ad_reporting__campaign_report,2024-09-13,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 990,CAMP-7414,Sustainability - Eco Mugs,849,52742,550.48,84.74,6194.77
+ad_reporting__campaign_report,2024-09-13,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 627,CAMP-3222,Holiday Deals - Notebooks,762,35474,917.84,83.67,16963.22
+ad_reporting__campaign_report,2024-09-13,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 692,CAMP-4148,Office Essentials - Eco Mugs,180,13108,127.47,15.66,1394.52
+ad_reporting__campaign_report,2024-09-15,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 523,CAMP-2051,Back to School - Cardstock,291,27026,1135.59,24.2,8537.45
+ad_reporting__campaign_report,2024-09-15,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 719,CAMP-4806,Brand Awareness - Cardstock,104,14035,623.49,9.21,1975.13
+ad_reporting__campaign_report,2024-09-15,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 996,CAMP-5920,Holiday Deals - Eco Mugs,634,23898,826.42,93.28,15676.88
+ad_reporting__campaign_report,2024-09-16,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 655,CAMP-4063,Brand Awareness - Envelopes,1612,30218,1044.83,214.8,19555.6
+ad_reporting__campaign_report,2024-09-16,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 936,CAMP-4405,Office Essentials - Eco Mugs,480,45113,530.98,41.02,2686.33
+ad_reporting__campaign_report,2024-09-18,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 740,CAMP-8052,Sustainability - Notebooks,1822,58808,2023.61,229.59,39290.21
+ad_reporting__campaign_report,2024-09-18,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 358,CAMP-4523,Office Essentials - Cardstock,209,22968,1210.25,20.77,7320.71
+ad_reporting__campaign_report,2024-09-18,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 316,CAMP-9549,Bulk Discounts - Sticky Notes,1163,44867,987.47,114.77,23475.45
+ad_reporting__campaign_report,2024-09-18,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 878,CAMP-3077,Sustainability - Notebooks,399,34545,250.57,28.11,2983.29
+ad_reporting__campaign_report,2024-09-19,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 202,CAMP-4674,Holiday Deals - Envelopes,143,12115,81.49,8.38,775.95
+ad_reporting__campaign_report,2024-09-20,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 188,CAMP-9054,Holiday Deals - Envelopes,430,18468,373.39,57.84,10434.54
+ad_reporting__campaign_report,2024-09-20,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 750,CAMP-2135,Back to School - Notebooks,596,52963,559.46,56.63,5633.68
+ad_reporting__campaign_report,2024-09-20,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 943,CAMP-3250,Sustainability - Cardstock,506,48656,383.23,55.73,4878.76
+ad_reporting__campaign_report,2024-09-20,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 251,CAMP-9968,Brand Awareness - Notebooks,258,24255,139.59,18.69,2214.1
+ad_reporting__campaign_report,2024-09-21,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 293,CAMP-1325,Office Essentials - Eco Mugs,81,5604,363.64,8.57,2132.46
+ad_reporting__campaign_report,2024-09-21,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 195,CAMP-5148,Sustainability - Eco Mugs,1021,34670,1109.15,76.84,12680.74
+ad_reporting__campaign_report,2024-09-22,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 447,CAMP-7441,Sustainability - Eco Mugs,1382,80580,1036.76,153.38,13005.05
+ad_reporting__campaign_report,2024-09-22,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 722,CAMP-2118,Sustainability - Printer Paper,399,25302,274.11,30.59,3734.42
+ad_reporting__campaign_report,2024-09-22,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 781,CAMP-2092,Sustainability - Sticky Notes,327,25707,243.38,27.02,2006.69
+ad_reporting__campaign_report,2024-09-23,google_ads,94864,Dunder Mifflin Google Ads Account 378,CAMP-2519,Bulk Discounts - Notebooks,709,26821,703.31,100.42,18409.88
+ad_reporting__campaign_report,2024-09-23,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 511,CAMP-1034,Brand Awareness - Eco Mugs,224,19653,786.81,19.23,4385.93
+ad_reporting__campaign_report,2024-09-23,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 887,CAMP-7612,Bulk Discounts - Cardstock,394,16230,515.33,32.76,7884.16
+ad_reporting__campaign_report,2024-09-23,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 119,CAMP-9976,Brand Awareness - Notebooks,850,34816,554.37,95.84,17859.45
+ad_reporting__campaign_report,2024-09-24,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 764,CAMP-9467,Brand Awareness - Notebooks,601,33895,384.75,49.49,3088.39
+ad_reporting__campaign_report,2024-09-24,google_ads,94864,Dunder Mifflin Google Ads Account 723,CAMP-2917,Holiday Deals - Cardstock,1141,41299,860.33,140.76,23145.01
+ad_reporting__campaign_report,2024-09-24,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 311,CAMP-6206,Bulk Discounts - Eco Mugs,377,31923,248.45,36.98,6399.55
+ad_reporting__campaign_report,2024-09-25,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 279,CAMP-3624,Office Essentials - Sticky Notes,277,31308,767.74,18.5,5175.89
+ad_reporting__campaign_report,2024-09-26,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 220,CAMP-6684,Brand Awareness - Sticky Notes,867,58238,903.58,77.91,8737.13
+ad_reporting__campaign_report,2024-09-26,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 312,CAMP-7667,Bulk Discounts - Cardstock,1158,40645,826.58,177.1,21219.75
+ad_reporting__campaign_report,2024-09-26,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 990,CAMP-7659,Brand Awareness - Cardstock,318,29409,291.11,17.37,2573.52
+ad_reporting__campaign_report,2024-09-27,google_ads,94864,Dunder Mifflin Google Ads Account 702,CAMP-5591,Office Essentials - Eco Mugs,1052,27905,1545.35,209.56,42011.77
+ad_reporting__campaign_report,2024-09-28,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 693,CAMP-5285,Bulk Discounts - Printer Paper,155,9910,105.92,14.51,1571.74
+ad_reporting__campaign_report,2024-09-29,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 612,CAMP-1890,Back to School - Printer Paper,512,37741,1083.17,41.07,11009.6
+ad_reporting__campaign_report,2024-09-29,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 644,CAMP-4934,Sustainability - Envelopes,421,27237,236.82,34.95,3880.64
+ad_reporting__campaign_report,2024-09-30,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 597,CAMP-6914,Holiday Deals - Envelopes,1287,77262,1395.33,122.0,8373.04
+ad_reporting__campaign_report,2024-10-01,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 207,CAMP-4536,Brand Awareness - Eco Mugs,610,36149,332.27,41.7,3729.97
+ad_reporting__campaign_report,2024-10-02,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 347,CAMP-4691,Bulk Discounts - Cardstock,496,35112,329.09,19.64,1079.57
+ad_reporting__campaign_report,2024-10-03,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 521,CAMP-9703,Office Essentials - Eco Mugs,1074,31899,691.68,151.59,23505.9
+ad_reporting__campaign_report,2024-10-03,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 266,CAMP-6690,Sustainability - Notebooks,269,21992,194.26,22.23,2292.13
+ad_reporting__campaign_report,2024-10-03,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 629,CAMP-9834,Office Essentials - Printer Paper,352,24379,227.0,26.64,3346.18
+ad_reporting__campaign_report,2024-10-04,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 939,CAMP-1314,Office Essentials - Eco Mugs,249,17852,880.71,30.88,11183.72
+ad_reporting__campaign_report,2024-10-04,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 274,CAMP-3999,Bulk Discounts - Sticky Notes,356,24041,1573.42,31.97,9410.57
+ad_reporting__campaign_report,2024-10-05,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 975,CAMP-3571,Holiday Deals - Notebooks,1109,19513,859.49,174.36,25006.98
+ad_reporting__campaign_report,2024-10-06,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 228,CAMP-3042,Brand Awareness - Printer Paper,92,9882,195.67,6.18,1129.87
+ad_reporting__campaign_report,2024-10-07,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 743,CAMP-7616,Brand Awareness - Notebooks,436,38202,132.77,15.23,1557.33
+ad_reporting__campaign_report,2024-10-08,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 228,CAMP-7373,Office Essentials - Eco Mugs,694,34089,745.72,81.02,8411.38
+ad_reporting__campaign_report,2024-10-12,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 507,CAMP-1813,Back to School - Envelopes,216,15404,852.03,13.88,5114.55
+ad_reporting__campaign_report,2024-10-12,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 382,CAMP-6828,Office Essentials - Cardstock,916,36599,1253.03,89.66,12994.35
+ad_reporting__campaign_report,2024-10-12,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 495,CAMP-7582,Bulk Discounts - Cardstock,1011,38084,874.23,141.69,23508.01
+ad_reporting__campaign_report,2024-10-13,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 129,CAMP-6678,Holiday Deals - Eco Mugs,971,63334,942.29,53.4,3333.75
+ad_reporting__campaign_report,2024-10-13,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 534,CAMP-6666,Brand Awareness - Envelopes,163,15084,69.1,12.8,1781.24
+ad_reporting__campaign_report,2024-10-14,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 258,CAMP-9704,Office Essentials - Eco Mugs,979,24991,946.29,103.18,8771.55
+ad_reporting__campaign_report,2024-10-16,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 549,CAMP-5157,Back to School - Cardstock,821,34649,1075.61,115.5,19313.97
+ad_reporting__campaign_report,2024-10-17,google_ads,94864,Dunder Mifflin Google Ads Account 283,CAMP-8939,Bulk Discounts - Eco Mugs,2858,57244,3833.88,395.64,60286.53
+ad_reporting__campaign_report,2024-10-18,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 596,CAMP-7077,Bulk Discounts - Eco Mugs,1045,19608,876.37,82.87,13010.74
+ad_reporting__campaign_report,2024-10-19,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 972,CAMP-7324,Bulk Discounts - Envelopes,1181,29383,775.54,194.19,32752.81
+ad_reporting__campaign_report,2024-10-19,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 715,CAMP-4373,Brand Awareness - Envelopes,480,22311,513.19,41.55,4390.72
+ad_reporting__campaign_report,2024-10-19,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 895,CAMP-6360,Sustainability - Sticky Notes,428,24629,292.84,27.34,2280.31
+ad_reporting__campaign_report,2024-10-19,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 753,CAMP-4571,Back to School - Printer Paper,152,12454,51.49,6.23,556.1
+ad_reporting__campaign_report,2024-10-20,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 204,CAMP-4368,Brand Awareness - Notebooks,871,21113,665.14,107.61,20102.36
+ad_reporting__campaign_report,2024-10-22,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 430,CAMP-1624,Sustainability - Eco Mugs,2132,44478,1550.72,185.04,20090.59
+ad_reporting__campaign_report,2024-10-22,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 958,CAMP-3264,Brand Awareness - Envelopes,567,33257,277.41,40.56,3692.8
+ad_reporting__campaign_report,2024-10-22,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 265,CAMP-6258,Bulk Discounts - Envelopes,511,32551,315.82,35.49,2178.94
+ad_reporting__campaign_report,2024-10-23,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 306,CAMP-4124,Sustainability - Printer Paper,215,19752,435.96,22.78,5696.85
+ad_reporting__campaign_report,2024-10-23,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 770,CAMP-7653,Brand Awareness - Notebooks,348,31035,193.18,21.43,933.4
+ad_reporting__campaign_report,2024-10-24,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 915,CAMP-8057,Bulk Discounts - Eco Mugs,1565,33056,1644.4,131.16,13339.95
+ad_reporting__campaign_report,2024-10-24,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 926,CAMP-4667,Office Essentials - Cardstock,908,79742,1061.66,107.58,8398.49
+ad_reporting__campaign_report,2024-10-24,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 440,CAMP-1446,Brand Awareness - Eco Mugs,355,21851,177.25,24.25,1290.76
+ad_reporting__campaign_report,2024-10-25,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 155,CAMP-4179,Bulk Discounts - Sticky Notes,134,14220,95.25,10.33,1183.32
+ad_reporting__campaign_report,2024-10-26,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 493,CAMP-2754,Sustainability - Notebooks,774,21644,770.79,69.32,13306.65
+ad_reporting__campaign_report,2024-10-26,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 622,CAMP-9849,Bulk Discounts - Sticky Notes,686,15314,507.26,61.2,9503.66
+ad_reporting__campaign_report,2024-10-26,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 631,CAMP-6323,Office Essentials - Printer Paper,488,34828,291.25,28.48,1649.79
+ad_reporting__campaign_report,2024-10-27,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 692,CAMP-7413,Holiday Deals - Notebooks,898,63816,923.42,45.93,4747.47
+ad_reporting__campaign_report,2024-10-27,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 835,CAMP-8766,Brand Awareness - Cardstock,543,40734,265.87,32.77,2986.38
+ad_reporting__campaign_report,2024-10-28,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 972,CAMP-8394,Sustainability - Notebooks,339,28045,140.32,23.85,2237.14
+ad_reporting__campaign_report,2024-10-29,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 940,CAMP-1698,Office Essentials - Eco Mugs,497,41227,302.82,25.06,2794.04
+ad_reporting__campaign_report,2024-10-29,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 153,CAMP-4882,Brand Awareness - Printer Paper,458,41523,176.5,20.5,1885.32
+ad_reporting__campaign_report,2024-10-30,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 590,CAMP-1453,Brand Awareness - Notebooks,161,22593,550.81,16.37,3463.96
+ad_reporting__campaign_report,2024-10-30,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 439,CAMP-2815,Office Essentials - Printer Paper,235,20307,1266.99,28.21,9358.76
+ad_reporting__campaign_report,2024-10-30,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 266,CAMP-2975,Office Essentials - Envelopes,159,9797,89.45,12.51,1056.96
+ad_reporting__campaign_report,2024-10-31,google_ads,94864,Dunder Mifflin Google Ads Account 483,CAMP-9291,Back to School - Sticky Notes,995,39252,968.45,121.85,17520.01
+ad_reporting__campaign_report,2024-10-31,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 351,CAMP-8770,Office Essentials - Printer Paper,494,31734,324.2,64.53,12393.92
+ad_reporting__campaign_report,2024-10-31,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 848,CAMP-9411,Back to School - Envelopes,309,30437,156.54,14.36,2197.71
+ad_reporting__campaign_report,2024-11-01,google_ads,94864,Dunder Mifflin Google Ads Account 265,CAMP-2917,Office Essentials - Notebooks,1321,35111,1396.18,173.02,25130.17
+ad_reporting__campaign_report,2024-11-03,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 442,CAMP-9882,Brand Awareness - Envelopes,164,17620,628.83,15.08,4258.65
+ad_reporting__campaign_report,2024-11-05,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 372,CAMP-7034,Bulk Discounts - Envelopes,1129,40701,1076.27,166.08,35948.84
+ad_reporting__campaign_report,2024-11-06,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 728,CAMP-6171,Back to School - Sticky Notes,225,26819,463.74,19.11,5201.77
+ad_reporting__campaign_report,2024-11-08,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 327,CAMP-1651,Office Essentials - Sticky Notes,862,34213,528.63,70.84,12342.65
+ad_reporting__campaign_report,2024-11-08,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 771,CAMP-9268,Bulk Discounts - Envelopes,187,12183,81.16,13.54,1351.13
+ad_reporting__campaign_report,2024-11-09,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 489,CAMP-5161,Holiday Deals - Printer Paper,796,45033,570.91,74.22,8737.44
+ad_reporting__campaign_report,2024-11-09,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 988,CAMP-9582,Back to School - Sticky Notes,772,45149,420.36,57.97,3559.83
+ad_reporting__campaign_report,2024-11-10,google_ads,94864,Dunder Mifflin Google Ads Account 870,CAMP-3353,Sustainability - Cardstock,1876,52541,2745.59,295.3,47135.63
+ad_reporting__campaign_report,2024-11-10,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 881,CAMP-3308,Brand Awareness - Sticky Notes,261,26780,1145.14,15.94,4951.07
+ad_reporting__campaign_report,2024-11-10,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 554,CAMP-4083,Bulk Discounts - Eco Mugs,162,11888,569.81,11.34,4170.18
+ad_reporting__campaign_report,2024-11-10,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 677,CAMP-7834,Sustainability - Printer Paper,529,17749,594.35,49.39,11510.15
+ad_reporting__campaign_report,2024-11-10,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 305,CAMP-4881,Brand Awareness - Printer Paper,288,31774,88.67,13.94,1144.16
+ad_reporting__campaign_report,2024-11-10,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 548,CAMP-6273,Office Essentials - Printer Paper,404,24073,249.28,18.68,1745.43
+ad_reporting__campaign_report,2024-11-11,google_ads,94864,Dunder Mifflin Google Ads Account 208,CAMP-6005,Back to School - Printer Paper,1137,39958,954.38,148.05,26925.67
+ad_reporting__campaign_report,2024-11-14,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 572,CAMP-1992,Brand Awareness - Eco Mugs,824,27766,1068.58,92.5,14611.58
+ad_reporting__campaign_report,2024-11-14,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 745,CAMP-4603,Bulk Discounts - Notebooks,540,36022,325.01,45.02,7609.63
+ad_reporting__campaign_report,2024-11-16,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 911,CAMP-4541,Bulk Discounts - Envelopes,243,17894,1124.42,29.19,5278.64
+ad_reporting__campaign_report,2024-11-16,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 829,CAMP-4395,Holiday Deals - Notebooks,378,33960,304.16,16.59,1541.73
+ad_reporting__campaign_report,2024-11-16,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 728,CAMP-8276,Office Essentials - Envelopes,306,30282,84.85,12.07,1322.93
+ad_reporting__campaign_report,2024-11-17,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 704,CAMP-3853,Holiday Deals - Printer Paper,941,42611,1030.53,101.64,13876.37
+ad_reporting__campaign_report,2024-11-17,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 247,CAMP-3302,Back to School - Sticky Notes,869,21298,800.41,148.16,19514.87
+ad_reporting__campaign_report,2024-11-17,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 528,CAMP-4585,Office Essentials - Printer Paper,238,23047,161.75,12.38,1396.11
+ad_reporting__campaign_report,2024-11-18,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 139,CAMP-3561,Sustainability - Notebooks,417,23319,199.52,32.25,4190.69
+ad_reporting__campaign_report,2024-11-19,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 698,CAMP-9268,Back to School - Notebooks,856,35467,961.3,72.89,6894.83
+ad_reporting__campaign_report,2024-11-20,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 312,CAMP-4886,Holiday Deals - Printer Paper,178,17659,509.51,19.45,4775.09
+ad_reporting__campaign_report,2024-11-23,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 859,CAMP-4595,Back to School - Eco Mugs,897,21119,790.9,91.62,10074.85
+ad_reporting__campaign_report,2024-11-26,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 328,CAMP-7044,Office Essentials - Envelopes,517,14454,335.11,59.42,8168.14
+ad_reporting__campaign_report,2024-11-26,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 430,CAMP-6832,Office Essentials - Cardstock,844,32456,1019.49,74.97,7970.46
+ad_reporting__campaign_report,2024-11-27,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 241,CAMP-3211,Sustainability - Cardstock,649,38041,278.17,28.85,2413.73
+ad_reporting__campaign_report,2024-11-28,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 541,CAMP-7933,Brand Awareness - Envelopes,534,51429,151.51,23.59,2488.43
+ad_reporting__campaign_report,2024-11-29,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 795,CAMP-9538,Office Essentials - Sticky Notes,1026,28937,898.75,68.98,6085.17
+ad_reporting__campaign_report,2024-12-02,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 107,CAMP-5868,Sustainability - Envelopes,308,19822,110.51,23.68,2079.93
+ad_reporting__campaign_report,2024-12-03,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 615,CAMP-9726,Office Essentials - Notebooks,790,59004,909.73,80.85,8299.76
+ad_reporting__campaign_report,2024-12-04,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 571,CAMP-9669,Office Essentials - Eco Mugs,1599,29472,927.22,238.28,34597.01
+ad_reporting__campaign_report,2024-12-04,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 484,CAMP-8957,Holiday Deals - Cardstock,698,26442,492.78,54.5,9240.86
+ad_reporting__campaign_report,2024-12-06,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 978,CAMP-4618,Sustainability - Printer Paper,877,32102,562.81,107.74,21364.39
+ad_reporting__campaign_report,2024-12-07,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 140,CAMP-8203,Office Essentials - Printer Paper,166,12150,125.84,12.25,1464.45
+ad_reporting__campaign_report,2024-12-07,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 742,CAMP-9993,Back to School - Notebooks,507,39230,337.55,26.68,1912.0
+ad_reporting__campaign_report,2024-12-09,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 954,CAMP-5838,Holiday Deals - Eco Mugs,890,30057,889.83,130.08,20120.48
+ad_reporting__campaign_report,2024-12-10,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 581,CAMP-8358,Sustainability - Envelopes,410,28814,243.99,14.26,1090.36
+ad_reporting__campaign_report,2024-12-11,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 646,CAMP-2539,Back to School - Sticky Notes,991,29918,895.56,64.93,7554.65
+ad_reporting__campaign_report,2024-12-11,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 252,CAMP-6881,Office Essentials - Cardstock,372,14731,505.77,35.68,6968.34
+ad_reporting__campaign_report,2024-12-11,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 312,CAMP-4698,Holiday Deals - Envelopes,811,48166,432.45,54.14,8651.15
+ad_reporting__campaign_report,2024-12-12,facebook_ads,82613,Dunder Mifflin Facebook Ads Account 450,CAMP-4604,Office Essentials - Cardstock,1354,84821,931.3,68.56,5825.74
+ad_reporting__campaign_report,2024-12-12,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 238,CAMP-2730,Back to School - Cardstock,418,34122,199.22,33.0,3723.33
+ad_reporting__campaign_report,2024-12-13,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 187,CAMP-9886,Office Essentials - Printer Paper,420,27988,209.58,29.02,5117.34
+ad_reporting__campaign_report,2024-12-14,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 450,CAMP-8749,Brand Awareness - Cardstock,331,27222,249.7,13.55,1971.93
+ad_reporting__campaign_report,2024-12-15,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 365,CAMP-1779,Office Essentials - Envelopes,301,33228,269.78,13.6,783.52
+ad_reporting__campaign_report,2024-12-16,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 746,CAMP-5552,Holiday Deals - Cardstock,1861,47193,1896.59,134.14,13126.99
+ad_reporting__campaign_report,2024-12-16,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 709,CAMP-7858,Sustainability - Printer Paper,476,20646,388.13,55.31,5282.34
+ad_reporting__campaign_report,2024-12-16,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 420,CAMP-6937,Office Essentials - Sticky Notes,235,22057,108.11,17.33,1883.0
+ad_reporting__campaign_report,2024-12-17,pinterest_ads,18989,Dunder Mifflin Pinterest Ads Account 783,CAMP-1044,Holiday Deals - Cardstock,247,16686,245.77,16.92,2739.34
+ad_reporting__campaign_report,2024-12-18,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 773,CAMP-1971,Holiday Deals - Printer Paper,742,23579,621.96,69.42,9727.02
+ad_reporting__campaign_report,2024-12-18,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 502,CAMP-6344,Bulk Discounts - Notebooks,144,11899,50.93,7.71,898.54
+ad_reporting__campaign_report,2024-12-18,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 613,CAMP-2535,Sustainability - Cardstock,378,38670,134.55,25.11,1178.71
+ad_reporting__campaign_report,2024-12-21,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 602,CAMP-6091,Back to School - Envelopes,1456,30409,1584.0,162.2,32171.52
+ad_reporting__campaign_report,2024-12-22,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 604,CAMP-1443,Sustainability - Cardstock,1480,44630,1772.38,162.79,19003.5
+ad_reporting__campaign_report,2024-12-22,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 447,CAMP-3509,Holiday Deals - Envelopes,699,27311,671.82,80.64,8361.04
+ad_reporting__campaign_report,2024-12-23,amazon_ads,52678,Dunder Mifflin Amazon Ads Account 521,CAMP-4614,Sustainability - Printer Paper,1327,37969,1405.38,87.12,12442.18
+ad_reporting__campaign_report,2024-12-23,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 773,CAMP-7371,Sustainability - Sticky Notes,492,30689,275.62,34.35,5422.67
+ad_reporting__campaign_report,2024-12-25,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 348,CAMP-8448,Brand Awareness - Printer Paper,174,8168,115.49,16.32,1875.19
+ad_reporting__campaign_report,2024-12-25,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 532,CAMP-1043,Holiday Deals - Notebooks,545,33057,257.64,35.34,1857.64
+ad_reporting__campaign_report,2024-12-25,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 797,CAMP-9400,Back to School - Envelopes,330,27402,288.45,27.5,4139.37
+ad_reporting__campaign_report,2024-12-27,apple_search_ads,91767,Dunder Mifflin Apple Search Ads Account 740,CAMP-9772,Back to School - Envelopes,466,11015,308.24,37.84,7003.71
+ad_reporting__campaign_report,2024-12-27,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 739,CAMP-9011,Brand Awareness - Eco Mugs,368,20700,214.9,34.13,4792.73
+ad_reporting__campaign_report,2024-12-28,google_ads,94864,Dunder Mifflin Google Ads Account 466,CAMP-4765,Sustainability - Sticky Notes,1320,34782,1475.01,205.1,42460.61
+ad_reporting__campaign_report,2024-12-29,microsoft_ads,69659,Dunder Mifflin Microsoft Ads Account 930,CAMP-2963,Back to School - Sticky Notes,653,25047,398.96,90.76,16981.22
+ad_reporting__campaign_report,2024-12-30,linkedin_ads,97888,Dunder Mifflin Linkedin Ads Account 191,CAMP-1832,Back to School - Envelopes,334,31184,1320.67,39.37,11664.76
+ad_reporting__campaign_report,2024-12-30,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 972,CAMP-4179,Bulk Discounts - Sticky Notes,124,13653,71.75,6.01,684.93
+ad_reporting__campaign_report,2024-12-30,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 451,CAMP-5634,Sustainability - Eco Mugs,495,36532,192.08,15.65,1715.84
+ad_reporting__campaign_report,2024-12-30,reddit_ads,18346,Dunder Mifflin Reddit Ads Account 986,CAMP-7661,Holiday Deals - Notebooks,366,29077,243.77,20.4,1750.76
+ad_reporting__campaign_report,2024-12-30,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 402,CAMP-9443,Back to School - Notebooks,445,30914,208.63,17.98,756.8
+ad_reporting__campaign_report,2024-12-30,tiktok_ads,28349,Dunder Mifflin Tiktok Ads Account 876,CAMP-4412,Office Essentials - Cardstock,604,30750,298.43,58.29,3367.98
+ad_reporting__campaign_report,2024-12-30,twitter_ads,45402,Dunder Mifflin Twitter Ads Account 679,CAMP-9731,Sustainability - Cardstock,485,29074,297.93,38.39,5184.58
+ad_reporting__campaign_report,2024-12-31,google_ads,94864,Dunder Mifflin Google Ads Account 549,CAMP-8852,Sustainability - Notebooks,1313,34648,1301.77,243.76,43002.26
+ad_reporting__campaign_report,2024-12-31,snapchat_ads,47781,Dunder Mifflin Snapchat Ads Account 838,CAMP-1366,Office Essentials - Cardstock,282,22885,119.6,16.17,1904.39

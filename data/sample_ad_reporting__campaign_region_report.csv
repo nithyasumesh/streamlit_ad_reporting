@@ -1,0 +1,401 @@
+source_relation,date_month,platform,account_id,account_name,campaign_id,campaign_name,region,clicks,impressions,spend,conversions,conversions_value
+ad_reporting__campaign_region_report,2024-01-01,facebook_ads,48005,Dunder Mifflin Facebook Ads Account 5,,Account-level,California,4186,398071,4254.94,474.72,32663.87
+ad_reporting__campaign_region_report,2024-01-01,facebook_ads,40797,Dunder Mifflin Facebook Ads Account 797,,Account-level,Delhi NCR,3910,291747,3729.44,309.31,27395.66
+ad_reporting__campaign_region_report,2024-01-01,facebook_ads,84124,Dunder Mifflin Facebook Ads Account 124,,Account-level,Ontario,2998,237076,2691.29,292.49,41730.92
+ad_reporting__campaign_region_report,2024-01-01,facebook_ads,10994,Dunder Mifflin Facebook Ads Account 994,,Account-level,Texas,2496,208086,2142.21,185.15,27334.0
+ad_reporting__campaign_region_report,2024-01-01,facebook_ads,10724,Dunder Mifflin Facebook Ads Account 724,,Account-level,Tokyo,3945,254680,3044.1,457.55,59523.85
+ad_reporting__campaign_region_report,2024-01-01,facebook_ads,60960,Dunder Mifflin Facebook Ads Account 960,,Account-level,Tokyo,4553,373293,4707.47,405.45,47170.77
+ad_reporting__campaign_region_report,2024-01-01,linkedin_ads,91703,Dunder Mifflin Linkedin Ads Account 703,CAMP-4516,Holiday Deals - Notebooks,Bavaria,1411,76081,3620.03,91.29,19430.51
+ad_reporting__campaign_region_report,2024-01-01,linkedin_ads,98144,Dunder Mifflin Linkedin Ads Account 144,CAMP-9979,Office Essentials - Sticky Notes,Bavaria,1355,95075,3047.32,173.21,37250.61
+ad_reporting__campaign_region_report,2024-01-01,linkedin_ads,58971,Dunder Mifflin Linkedin Ads Account 971,CAMP-2741,Bulk Discounts - Notebooks,California,1531,90048,6662.74,133.54,28652.53
+ad_reporting__campaign_region_report,2024-01-01,linkedin_ads,49749,Dunder Mifflin Linkedin Ads Account 749,CAMP-5906,Holiday Deals - Envelopes,England,952,94192,3863.87,82.77,29522.4
+ad_reporting__campaign_region_report,2024-01-01,linkedin_ads,73774,Dunder Mifflin Linkedin Ads Account 774,CAMP-3623,Holiday Deals - Sticky Notes,England,616,33686,3672.34,82.52,23026.96
+ad_reporting__campaign_region_report,2024-01-01,linkedin_ads,14505,Dunder Mifflin Linkedin Ads Account 505,CAMP-3608,Office Essentials - Printer Paper,New York,1968,105862,6212.17,151.46,33270.48
+ad_reporting__campaign_region_report,2024-01-01,linkedin_ads,29875,Dunder Mifflin Linkedin Ads Account 875,CAMP-7291,Holiday Deals - Envelopes,Île-de-France,1303,112229,7205.32,104.54,38081.45
+ad_reporting__campaign_region_report,2024-01-01,linkedin_ads,62207,Dunder Mifflin Linkedin Ads Account 207,CAMP-1260,Holiday Deals - Notebooks,Île-de-France,2217,130072,9752.68,267.11,75611.62
+ad_reporting__campaign_region_report,2024-01-01,microsoft_ads,70313,Dunder Mifflin Microsoft Ads Account 313,CAMP-7257,Sustainability - Notebooks,California,4615,177202,2888.36,575.56,135837.0
+ad_reporting__campaign_region_report,2024-01-01,microsoft_ads,91027,Dunder Mifflin Microsoft Ads Account 27,CAMP-9775,Office Essentials - Printer Paper,California,7533,299877,9256.44,965.88,94152.92
+ad_reporting__campaign_region_report,2024-01-01,microsoft_ads,31656,Dunder Mifflin Microsoft Ads Account 656,CAMP-9353,Sustainability - Cardstock,Ontario,5143,241870,3701.47,511.19,61742.35
+ad_reporting__campaign_region_report,2024-01-01,microsoft_ads,89274,Dunder Mifflin Microsoft Ads Account 274,CAMP-6451,Office Essentials - Envelopes,Ontario,1357,77088,1291.1,116.63,26947.12
+ad_reporting__campaign_region_report,2024-01-01,microsoft_ads,10989,Dunder Mifflin Microsoft Ads Account 989,CAMP-6077,Holiday Deals - Cardstock,Quebec,2243,152045,1416.93,280.84,58016.92
+ad_reporting__campaign_region_report,2024-01-01,microsoft_ads,12591,Dunder Mifflin Microsoft Ads Account 591,CAMP-9736,Holiday Deals - Printer Paper,Quebec,1810,86799,2335.93,175.78,33893.74
+ad_reporting__campaign_region_report,2024-01-01,microsoft_ads,61161,Dunder Mifflin Microsoft Ads Account 161,CAMP-9652,Holiday Deals - Printer Paper,Texas,3667,175601,3469.35,433.98,48502.55
+ad_reporting__campaign_region_report,2024-01-01,pinterest_ads,38182,Dunder Mifflin Pinterest Ads Account 182,CAMP-8576,Holiday Deals - Printer Paper,Delhi NCR,2449,224868,1627.29,115.76,17208.28
+ad_reporting__campaign_region_report,2024-01-01,pinterest_ads,52870,Dunder Mifflin Pinterest Ads Account 870,CAMP-4266,Holiday Deals - Envelopes,Delhi NCR,1059,135523,633.08,69.13,6060.15
+ad_reporting__campaign_region_report,2024-01-01,pinterest_ads,53338,Dunder Mifflin Pinterest Ads Account 338,CAMP-9917,Office Essentials - Cardstock,Delhi NCR,1378,160941,1228.71,77.01,8442.06
+ad_reporting__campaign_region_report,2024-01-01,pinterest_ads,92456,Dunder Mifflin Pinterest Ads Account 456,CAMP-1239,Holiday Deals - Notebooks,Tokyo,2364,231350,1702.4,196.14,22768.78
+ad_reporting__campaign_region_report,2024-01-01,snapchat_ads,76570,Dunder Mifflin Snapchat Ads Account 570,CAMP-6080,Holiday Deals - Sticky Notes,California,1407,170985,803.2,78.0,4100.14
+ad_reporting__campaign_region_report,2024-01-01,snapchat_ads,25522,Dunder Mifflin Snapchat Ads Account 522,CAMP-5378,Sustainability - Notebooks,Ontario,1871,177770,911.06,58.61,3074.23
+ad_reporting__campaign_region_report,2024-01-01,snapchat_ads,37640,Dunder Mifflin Snapchat Ads Account 640,CAMP-8713,Bulk Discounts - Cardstock,Tokyo,1996,212192,1047.64,86.09,8920.92
+ad_reporting__campaign_region_report,2024-01-01,tiktok_ads,39362,Dunder Mifflin Tiktok Ads Account 362,CAMP-9036,Bulk Discounts - Notebooks,Bavaria,3626,244113,3005.26,354.42,34489.5
+ad_reporting__campaign_region_report,2024-01-01,tiktok_ads,13848,Dunder Mifflin Tiktok Ads Account 848,CAMP-3451,Office Essentials - Envelopes,Delhi NCR,3443,230113,2229.79,230.32,13473.14
+ad_reporting__campaign_region_report,2024-01-01,tiktok_ads,74198,Dunder Mifflin Tiktok Ads Account 198,CAMP-3565,Bulk Discounts - Notebooks,New York,3327,225443,1616.5,180.11,22369.56
+ad_reporting__campaign_region_report,2024-01-01,tiktok_ads,11576,Dunder Mifflin Tiktok Ads Account 576,CAMP-7051,Sustainability - Cardstock,Quebec,1937,151113,1739.13,104.25,11510.6
+ad_reporting__campaign_region_report,2024-01-01,tiktok_ads,66005,Dunder Mifflin Tiktok Ads Account 5,CAMP-5387,Sustainability - Notebooks,Texas,2942,155546,1459.83,185.5,11582.5
+ad_reporting__campaign_region_report,2024-01-01,twitter_ads,39165,Dunder Mifflin Twitter Ads Account 165,CAMP-2150,Sustainability - Sticky Notes,Bavaria,1359,81201,1269.56,114.29,8192.55
+ad_reporting__campaign_region_report,2024-01-01,twitter_ads,30273,Dunder Mifflin Twitter Ads Account 273,CAMP-4143,Office Essentials - Cardstock,California,1394,91833,1223.76,139.05,19666.4
+ad_reporting__campaign_region_report,2024-02-01,facebook_ads,19454,Dunder Mifflin Facebook Ads Account 454,,Account-level,England,3591,237159,3036.64,305.84,41795.79
+ad_reporting__campaign_region_report,2024-02-01,facebook_ads,40404,Dunder Mifflin Facebook Ads Account 404,,Account-level,England,1398,110577,754.98,127.74,10552.12
+ad_reporting__campaign_region_report,2024-02-01,facebook_ads,36648,Dunder Mifflin Facebook Ads Account 648,,Account-level,New York,5887,403028,5368.74,356.57,45634.1
+ad_reporting__campaign_region_report,2024-02-01,facebook_ads,67047,Dunder Mifflin Facebook Ads Account 47,,Account-level,Quebec,2877,234423,1839.68,196.23,23379.33
+ad_reporting__campaign_region_report,2024-02-01,linkedin_ads,53061,Dunder Mifflin Linkedin Ads Account 61,CAMP-2782,Holiday Deals - Notebooks,Delhi NCR,788,75109,4497.79,94.28,29388.54
+ad_reporting__campaign_region_report,2024-02-01,linkedin_ads,33992,Dunder Mifflin Linkedin Ads Account 992,CAMP-1818,Bulk Discounts - Sticky Notes,New York,1271,77986,7561.76,114.06,39405.69
+ad_reporting__campaign_region_report,2024-02-01,linkedin_ads,46417,Dunder Mifflin Linkedin Ads Account 417,CAMP-5045,Holiday Deals - Envelopes,New York,902,55503,2313.98,62.44,19698.36
+ad_reporting__campaign_region_report,2024-02-01,linkedin_ads,95764,Dunder Mifflin Linkedin Ads Account 764,CAMP-2668,Holiday Deals - Notebooks,New York,1372,109640,4424.67,92.99,28917.37
+ad_reporting__campaign_region_report,2024-02-01,linkedin_ads,50124,Dunder Mifflin Linkedin Ads Account 124,CAMP-3435,Sustainability - Envelopes,Quebec,1207,70100,4752.24,88.94,25647.51
+ad_reporting__campaign_region_report,2024-02-01,linkedin_ads,78497,Dunder Mifflin Linkedin Ads Account 497,CAMP-2731,Office Essentials - Envelopes,Quebec,1326,107049,3820.4,109.1,22938.11
+ad_reporting__campaign_region_report,2024-02-01,linkedin_ads,23531,Dunder Mifflin Linkedin Ads Account 531,CAMP-7800,Bulk Discounts - Notebooks,Texas,1809,98372,8159.68,210.25,56373.92
+ad_reporting__campaign_region_report,2024-02-01,linkedin_ads,48560,Dunder Mifflin Linkedin Ads Account 560,CAMP-4037,Sustainability - Cardstock,Tokyo,1399,86393,5120.98,185.81,67321.91
+ad_reporting__campaign_region_report,2024-02-01,linkedin_ads,70385,Dunder Mifflin Linkedin Ads Account 385,CAMP-9632,Sustainability - Printer Paper,Île-de-France,1450,103064,6895.2,167.27,54147.89
+ad_reporting__campaign_region_report,2024-02-01,microsoft_ads,58545,Dunder Mifflin Microsoft Ads Account 545,CAMP-7811,Office Essentials - Notebooks,England,2363,129297,2026.57,252.04,34529.27
+ad_reporting__campaign_region_report,2024-02-01,microsoft_ads,86060,Dunder Mifflin Microsoft Ads Account 60,CAMP-8859,Bulk Discounts - Printer Paper,Ontario,2540,178943,3452.04,183.46,35606.08
+ad_reporting__campaign_region_report,2024-02-01,microsoft_ads,42300,Dunder Mifflin Microsoft Ads Account 300,CAMP-3169,Sustainability - Cardstock,Quebec,3311,207697,2747.78,418.3,43574.04
+ad_reporting__campaign_region_report,2024-02-01,microsoft_ads,82186,Dunder Mifflin Microsoft Ads Account 186,CAMP-6298,Bulk Discounts - Cardstock,Quebec,802,46264,1054.21,114.19,10704.47
+ad_reporting__campaign_region_report,2024-02-01,microsoft_ads,72407,Dunder Mifflin Microsoft Ads Account 407,CAMP-4074,Office Essentials - Envelopes,Île-de-France,4644,180640,3914.75,485.67,54901.51
+ad_reporting__campaign_region_report,2024-02-01,microsoft_ads,99037,Dunder Mifflin Microsoft Ads Account 37,CAMP-1922,Office Essentials - Sticky Notes,Île-de-France,2917,143980,2640.96,398.68,66938.78
+ad_reporting__campaign_region_report,2024-02-01,pinterest_ads,59013,Dunder Mifflin Pinterest Ads Account 13,CAMP-5063,Bulk Discounts - Cardstock,Bavaria,1113,96140,958.08,44.65,6348.52
+ad_reporting__campaign_region_report,2024-02-01,pinterest_ads,68451,Dunder Mifflin Pinterest Ads Account 451,CAMP-7832,Holiday Deals - Envelopes,England,1478,131749,921.62,113.98,8097.92
+ad_reporting__campaign_region_report,2024-02-01,pinterest_ads,39672,Dunder Mifflin Pinterest Ads Account 672,CAMP-6884,Office Essentials - Printer Paper,New South Wales,1408,134603,974.88,105.77,9076.45
+ad_reporting__campaign_region_report,2024-02-01,pinterest_ads,97459,Dunder Mifflin Pinterest Ads Account 459,CAMP-4819,Bulk Discounts - Sticky Notes,Quebec,1292,133345,1278.37,103.49,7323.03
+ad_reporting__campaign_region_report,2024-02-01,pinterest_ads,14639,Dunder Mifflin Pinterest Ads Account 639,CAMP-4854,Bulk Discounts - Cardstock,Île-de-France,850,66611,493.43,36.59,4794.46
+ad_reporting__campaign_region_report,2024-02-01,pinterest_ads,34043,Dunder Mifflin Pinterest Ads Account 43,CAMP-2733,Bulk Discounts - Notebooks,Île-de-France,2399,183981,967.72,239.34,21394.59
+ad_reporting__campaign_region_report,2024-02-01,snapchat_ads,73480,Dunder Mifflin Snapchat Ads Account 480,CAMP-9890,Holiday Deals - Notebooks,Delhi NCR,2161,164534,1430.82,114.78,7678.52
+ad_reporting__campaign_region_report,2024-02-01,snapchat_ads,27226,Dunder Mifflin Snapchat Ads Account 226,CAMP-9960,Sustainability - Cardstock,New South Wales,1232,150965,648.35,74.03,7587.09
+ad_reporting__campaign_region_report,2024-02-01,snapchat_ads,99520,Dunder Mifflin Snapchat Ads Account 520,CAMP-8773,Sustainability - Sticky Notes,New South Wales,1415,110580,477.43,79.35,8848.67
+ad_reporting__campaign_region_report,2024-02-01,snapchat_ads,11711,Dunder Mifflin Snapchat Ads Account 711,CAMP-2577,Bulk Discounts - Envelopes,New York,1663,135405,954.73,56.23,2845.27
+ad_reporting__campaign_region_report,2024-02-01,snapchat_ads,28006,Dunder Mifflin Snapchat Ads Account 6,CAMP-1501,Bulk Discounts - Cardstock,New York,1854,128677,915.57,146.02,8600.02
+ad_reporting__campaign_region_report,2024-02-01,snapchat_ads,59119,Dunder Mifflin Snapchat Ads Account 119,CAMP-9022,Holiday Deals - Printer Paper,Texas,2207,191777,1255.53,173.22,11572.07
+ad_reporting__campaign_region_report,2024-02-01,tiktok_ads,65777,Dunder Mifflin Tiktok Ads Account 777,CAMP-7831,Sustainability - Notebooks,Delhi NCR,2384,184640,1197.88,148.87,18847.98
+ad_reporting__campaign_region_report,2024-02-01,tiktok_ads,94368,Dunder Mifflin Tiktok Ads Account 368,CAMP-7902,Office Essentials - Cardstock,Delhi NCR,2584,184754,1748.99,117.35,12008.83
+ad_reporting__campaign_region_report,2024-02-01,tiktok_ads,96185,Dunder Mifflin Tiktok Ads Account 185,CAMP-8391,Holiday Deals - Cardstock,New York,3437,212942,2536.66,198.81,10838.26
+ad_reporting__campaign_region_report,2024-02-01,tiktok_ads,71055,Dunder Mifflin Tiktok Ads Account 55,CAMP-4353,Holiday Deals - Cardstock,Texas,2489,170911,2204.43,186.48,12644.74
+ad_reporting__campaign_region_report,2024-02-01,tiktok_ads,86807,Dunder Mifflin Tiktok Ads Account 807,CAMP-3888,Bulk Discounts - Envelopes,Île-de-France,1940,153047,1462.47,91.77,6456.94
+ad_reporting__campaign_region_report,2024-02-01,twitter_ads,47222,Dunder Mifflin Twitter Ads Account 222,CAMP-2027,Holiday Deals - Cardstock,California,1831,108433,1769.86,142.29,11314.58
+ad_reporting__campaign_region_report,2024-02-01,twitter_ads,74657,Dunder Mifflin Twitter Ads Account 657,CAMP-1783,Holiday Deals - Cardstock,California,780,81500,350.68,35.09,2957.14
+ad_reporting__campaign_region_report,2024-02-01,twitter_ads,98459,Dunder Mifflin Twitter Ads Account 459,CAMP-1518,Office Essentials - Envelopes,Delhi NCR,2310,153573,1793.72,93.35,11654.3
+ad_reporting__campaign_region_report,2024-02-01,twitter_ads,25156,Dunder Mifflin Twitter Ads Account 156,CAMP-6262,Office Essentials - Cardstock,England,1543,97396,1520.55,74.38,9022.5
+ad_reporting__campaign_region_report,2024-03-01,facebook_ads,57797,Dunder Mifflin Facebook Ads Account 797,,Account-level,California,2704,207741,1927.47,259.13,27238.02
+ad_reporting__campaign_region_report,2024-03-01,facebook_ads,68916,Dunder Mifflin Facebook Ads Account 916,,Account-level,Delhi NCR,4344,319815,2252.32,409.17,57082.54
+ad_reporting__campaign_region_report,2024-03-01,facebook_ads,29680,Dunder Mifflin Facebook Ads Account 680,,Account-level,England,2237,220967,2545.19,188.11,16533.83
+ad_reporting__campaign_region_report,2024-03-01,facebook_ads,54877,Dunder Mifflin Facebook Ads Account 877,,Account-level,Ontario,2422,152582,2074.2,278.5,39884.72
+ad_reporting__campaign_region_report,2024-03-01,facebook_ads,34112,Dunder Mifflin Facebook Ads Account 112,,Account-level,Texas,2973,232890,3285.9,174.82,17558.13
+ad_reporting__campaign_region_report,2024-03-01,facebook_ads,27630,Dunder Mifflin Facebook Ads Account 630,,Account-level,Île-de-France,2382,183765,2555.65,193.4,23987.24
+ad_reporting__campaign_region_report,2024-03-01,linkedin_ads,65455,Dunder Mifflin Linkedin Ads Account 455,CAMP-3798,Holiday Deals - Envelopes,Bavaria,839,73641,3784.34,115.58,22696.5
+ad_reporting__campaign_region_report,2024-03-01,linkedin_ads,83042,Dunder Mifflin Linkedin Ads Account 42,CAMP-8428,Bulk Discounts - Cardstock,Bavaria,1284,72003,7521.15,112.21,28417.23
+ad_reporting__campaign_region_report,2024-03-01,linkedin_ads,26172,Dunder Mifflin Linkedin Ads Account 172,CAMP-4513,Holiday Deals - Cardstock,New York,1952,129801,7638.88,212.24,63677.44
+ad_reporting__campaign_region_report,2024-03-01,linkedin_ads,30838,Dunder Mifflin Linkedin Ads Account 838,CAMP-1378,Bulk Discounts - Sticky Notes,Quebec,1246,69026,3571.87,166.96,47055.43
+ad_reporting__campaign_region_report,2024-03-01,linkedin_ads,73744,Dunder Mifflin Linkedin Ads Account 744,CAMP-5687,Holiday Deals - Cardstock,Tokyo,1397,95325,3630.67,150.77,50431.69
+ad_reporting__campaign_region_report,2024-03-01,linkedin_ads,75133,Dunder Mifflin Linkedin Ads Account 133,CAMP-9165,Bulk Discounts - Printer Paper,Tokyo,614,58695,3611.97,39.39,13923.93
+ad_reporting__campaign_region_report,2024-03-01,microsoft_ads,35943,Dunder Mifflin Microsoft Ads Account 943,CAMP-7771,Office Essentials - Cardstock,England,3011,164839,3526.15,465.43,44352.86
+ad_reporting__campaign_region_report,2024-03-01,microsoft_ads,65492,Dunder Mifflin Microsoft Ads Account 492,CAMP-5172,Sustainability - Envelopes,Quebec,3074,141397,3143.25,470.52,94020.97
+ad_reporting__campaign_region_report,2024-03-01,pinterest_ads,22157,Dunder Mifflin Pinterest Ads Account 157,CAMP-2396,Bulk Discounts - Sticky Notes,California,1171,149915,850.65,93.6,11621.43
+ad_reporting__campaign_region_report,2024-03-01,pinterest_ads,57651,Dunder Mifflin Pinterest Ads Account 651,CAMP-2438,Sustainability - Printer Paper,California,410,48558,349.16,20.98,2384.89
+ad_reporting__campaign_region_report,2024-03-01,pinterest_ads,36491,Dunder Mifflin Pinterest Ads Account 491,CAMP-1610,Holiday Deals - Cardstock,England,1790,168382,1119.0,146.63,23151.58
+ad_reporting__campaign_region_report,2024-03-01,pinterest_ads,75329,Dunder Mifflin Pinterest Ads Account 329,CAMP-3109,Bulk Discounts - Notebooks,Quebec,930,69016,903.77,57.35,10163.75
+ad_reporting__campaign_region_report,2024-03-01,pinterest_ads,59593,Dunder Mifflin Pinterest Ads Account 593,CAMP-6556,Holiday Deals - Cardstock,Île-de-France,1296,104938,952.48,121.28,20895.72
+ad_reporting__campaign_region_report,2024-03-01,snapchat_ads,45637,Dunder Mifflin Snapchat Ads Account 637,CAMP-2232,Holiday Deals - Envelopes,Bavaria,2098,171565,1337.75,131.55,8478.3
+ad_reporting__campaign_region_report,2024-03-01,snapchat_ads,54212,Dunder Mifflin Snapchat Ads Account 212,CAMP-3799,Office Essentials - Printer Paper,England,418,34698,171.18,27.99,2097.41
+ad_reporting__campaign_region_report,2024-03-01,snapchat_ads,57122,Dunder Mifflin Snapchat Ads Account 122,CAMP-2622,Bulk Discounts - Printer Paper,Tokyo,1949,141757,1199.88,82.54,6933.61
+ad_reporting__campaign_region_report,2024-03-01,tiktok_ads,40215,Dunder Mifflin Tiktok Ads Account 215,CAMP-6712,Holiday Deals - Printer Paper,Delhi NCR,4041,226829,2713.13,305.81,23464.62
+ad_reporting__campaign_region_report,2024-03-01,tiktok_ads,65234,Dunder Mifflin Tiktok Ads Account 234,CAMP-4434,Holiday Deals - Envelopes,Quebec,1938,142427,1344.58,89.16,8072.28
+ad_reporting__campaign_region_report,2024-03-01,tiktok_ads,27380,Dunder Mifflin Tiktok Ads Account 380,CAMP-4599,Bulk Discounts - Notebooks,Texas,4063,241496,2403.08,321.95,38393.64
+ad_reporting__campaign_region_report,2024-03-01,tiktok_ads,12915,Dunder Mifflin Tiktok Ads Account 915,CAMP-2102,Office Essentials - Cardstock,Île-de-France,2916,160680,2568.05,242.35,15136.87
+ad_reporting__campaign_region_report,2024-04-01,facebook_ads,80658,Dunder Mifflin Facebook Ads Account 658,,Account-level,Bavaria,3077,192965,2726.97,226.59,13838.72
+ad_reporting__campaign_region_report,2024-04-01,facebook_ads,34789,Dunder Mifflin Facebook Ads Account 789,,Account-level,Delhi NCR,3661,233041,3706.8,353.99,30491.67
+ad_reporting__campaign_region_report,2024-04-01,facebook_ads,90071,Dunder Mifflin Facebook Ads Account 71,,Account-level,Texas,2537,181078,2323.39,185.36,17757.2
+ad_reporting__campaign_region_report,2024-04-01,facebook_ads,72679,Dunder Mifflin Facebook Ads Account 679,,Account-level,Tokyo,4532,386405,2423.19,232.67,22819.45
+ad_reporting__campaign_region_report,2024-04-01,linkedin_ads,27232,Dunder Mifflin Linkedin Ads Account 232,CAMP-5083,Office Essentials - Cardstock,California,780,72459,2820.17,63.34,14842.05
+ad_reporting__campaign_region_report,2024-04-01,linkedin_ads,45439,Dunder Mifflin Linkedin Ads Account 439,CAMP-9312,Office Essentials - Cardstock,Texas,1116,71686,5162.35,71.4,19222.76
+ad_reporting__campaign_region_report,2024-04-01,linkedin_ads,82659,Dunder Mifflin Linkedin Ads Account 659,CAMP-1444,Sustainability - Sticky Notes,Texas,190,18073,501.99,19.85,6151.32
+ad_reporting__campaign_region_report,2024-04-01,microsoft_ads,34390,Dunder Mifflin Microsoft Ads Account 390,CAMP-8415,Office Essentials - Notebooks,New York,7862,302329,8618.93,886.28,173468.63
+ad_reporting__campaign_region_report,2024-04-01,microsoft_ads,44273,Dunder Mifflin Microsoft Ads Account 273,CAMP-3544,Office Essentials - Notebooks,New York,2612,167354,2994.45,405.11,79086.18
+ad_reporting__campaign_region_report,2024-04-01,microsoft_ads,19220,Dunder Mifflin Microsoft Ads Account 220,CAMP-4497,Office Essentials - Notebooks,Quebec,3477,238871,2160.72,496.92,99596.97
+ad_reporting__campaign_region_report,2024-04-01,microsoft_ads,27012,Dunder Mifflin Microsoft Ads Account 12,CAMP-9315,Sustainability - Cardstock,Île-de-France,1926,80762,2572.3,302.45,38474.41
+ad_reporting__campaign_region_report,2024-04-01,microsoft_ads,32158,Dunder Mifflin Microsoft Ads Account 158,CAMP-4584,Bulk Discounts - Envelopes,Île-de-France,3709,170999,3449.64,259.78,60435.34
+ad_reporting__campaign_region_report,2024-04-01,microsoft_ads,32496,Dunder Mifflin Microsoft Ads Account 496,CAMP-3665,Sustainability - Sticky Notes,Île-de-France,7738,286664,7655.17,673.94,117886.56
+ad_reporting__campaign_region_report,2024-04-01,pinterest_ads,42380,Dunder Mifflin Pinterest Ads Account 380,CAMP-2060,Office Essentials - Sticky Notes,California,2311,189987,2153.88,158.03,25936.93
+ad_reporting__campaign_region_report,2024-04-01,pinterest_ads,39644,Dunder Mifflin Pinterest Ads Account 644,CAMP-2772,Sustainability - Cardstock,Delhi NCR,1292,123468,1142.53,74.18,8266.73
+ad_reporting__campaign_region_report,2024-04-01,pinterest_ads,47664,Dunder Mifflin Pinterest Ads Account 664,CAMP-5295,Office Essentials - Notebooks,Delhi NCR,2454,177345,1632.4,113.34,11250.96
+ad_reporting__campaign_region_report,2024-04-01,pinterest_ads,82240,Dunder Mifflin Pinterest Ads Account 240,CAMP-6091,Holiday Deals - Sticky Notes,New York,1367,113647,900.81,94.73,13562.38
+ad_reporting__campaign_region_report,2024-04-01,pinterest_ads,46494,Dunder Mifflin Pinterest Ads Account 494,CAMP-5299,Holiday Deals - Notebooks,Ontario,1635,197775,796.6,69.51,4978.9
+ad_reporting__campaign_region_report,2024-04-01,snapchat_ads,72916,Dunder Mifflin Snapchat Ads Account 916,CAMP-4742,Office Essentials - Printer Paper,Delhi NCR,1511,176994,1053.02,72.52,6579.69
+ad_reporting__campaign_region_report,2024-04-01,snapchat_ads,59788,Dunder Mifflin Snapchat Ads Account 788,CAMP-1851,Bulk Discounts - Cardstock,Quebec,871,59471,238.06,63.08,5933.11
+ad_reporting__campaign_region_report,2024-04-01,snapchat_ads,98510,Dunder Mifflin Snapchat Ads Account 510,CAMP-7691,Office Essentials - Cardstock,Quebec,1822,146750,719.43,144.9,13641.96
+ad_reporting__campaign_region_report,2024-04-01,tiktok_ads,99085,Dunder Mifflin Tiktok Ads Account 85,CAMP-8028,Sustainability - Notebooks,England,4004,267311,2888.68,334.61,21103.78
+ad_reporting__campaign_region_report,2024-04-01,tiktok_ads,46168,Dunder Mifflin Tiktok Ads Account 168,CAMP-5138,Bulk Discounts - Cardstock,New South Wales,2577,191801,1107.74,231.43,20543.2
+ad_reporting__campaign_region_report,2024-04-01,tiktok_ads,91824,Dunder Mifflin Tiktok Ads Account 824,CAMP-1171,Holiday Deals - Cardstock,New South Wales,3930,218540,2143.4,382.28,38098.55
+ad_reporting__campaign_region_report,2024-04-01,tiktok_ads,11807,Dunder Mifflin Tiktok Ads Account 807,CAMP-6000,Sustainability - Sticky Notes,Ontario,1437,100390,844.97,142.74,13407.85
+ad_reporting__campaign_region_report,2024-04-01,tiktok_ads,44393,Dunder Mifflin Tiktok Ads Account 393,CAMP-3026,Bulk Discounts - Cardstock,Tokyo,3941,243006,1518.55,271.37,30162.31
+ad_reporting__campaign_region_report,2024-04-01,twitter_ads,77078,Dunder Mifflin Twitter Ads Account 78,CAMP-7733,Holiday Deals - Envelopes,Quebec,1761,180461,1514.39,158.32,25545.97
+ad_reporting__campaign_region_report,2024-04-01,twitter_ads,87831,Dunder Mifflin Twitter Ads Account 831,CAMP-4685,Office Essentials - Cardstock,Quebec,1721,110191,1148.4,130.56,9190.15
+ad_reporting__campaign_region_report,2024-04-01,twitter_ads,75079,Dunder Mifflin Twitter Ads Account 79,CAMP-3604,Sustainability - Cardstock,Texas,1452,114030,1080.59,68.5,9294.75
+ad_reporting__campaign_region_report,2024-04-01,twitter_ads,75115,Dunder Mifflin Twitter Ads Account 115,CAMP-6510,Sustainability - Sticky Notes,Texas,791,51431,723.59,48.72,7477.74
+ad_reporting__campaign_region_report,2024-05-01,facebook_ads,45689,Dunder Mifflin Facebook Ads Account 689,,Account-level,Bavaria,1372,114486,892.67,76.48,9976.87
+ad_reporting__campaign_region_report,2024-05-01,facebook_ads,25171,Dunder Mifflin Facebook Ads Account 171,,Account-level,New South Wales,1944,163490,2240.87,226.94,30476.38
+ad_reporting__campaign_region_report,2024-05-01,facebook_ads,85312,Dunder Mifflin Facebook Ads Account 312,,Account-level,Ontario,3727,354164,2881.29,349.44,44671.54
+ad_reporting__campaign_region_report,2024-05-01,facebook_ads,44429,Dunder Mifflin Facebook Ads Account 429,,Account-level,Quebec,1229,97845,850.91,145.26,20735.51
+ad_reporting__campaign_region_report,2024-05-01,linkedin_ads,41522,Dunder Mifflin Linkedin Ads Account 522,CAMP-2749,Bulk Discounts - Notebooks,England,921,90416,2455.41,113.34,17547.8
+ad_reporting__campaign_region_report,2024-05-01,linkedin_ads,27638,Dunder Mifflin Linkedin Ads Account 638,CAMP-7380,Office Essentials - Cardstock,New South Wales,1061,71764,4969.73,108.74,28764.42
+ad_reporting__campaign_region_report,2024-05-01,linkedin_ads,96695,Dunder Mifflin Linkedin Ads Account 695,CAMP-7656,Sustainability - Notebooks,New South Wales,1164,59949,3811.99,117.64,21928.02
+ad_reporting__campaign_region_report,2024-05-01,linkedin_ads,45536,Dunder Mifflin Linkedin Ads Account 536,CAMP-6269,Office Essentials - Notebooks,New York,390,37917,1898.64,45.51,12243.98
+ad_reporting__campaign_region_report,2024-05-01,linkedin_ads,23205,Dunder Mifflin Linkedin Ads Account 205,CAMP-2048,Holiday Deals - Cardstock,Ontario,1692,90290,4206.12,105.63,35103.36
+ad_reporting__campaign_region_report,2024-05-01,linkedin_ads,75823,Dunder Mifflin Linkedin Ads Account 823,CAMP-3399,Office Essentials - Envelopes,Texas,1310,102185,4477.22,139.02,52830.48
+ad_reporting__campaign_region_report,2024-05-01,microsoft_ads,61236,Dunder Mifflin Microsoft Ads Account 236,CAMP-2346,Sustainability - Sticky Notes,New South Wales,6860,248877,4803.18,1060.77,201599.86
+ad_reporting__campaign_region_report,2024-05-01,microsoft_ads,47586,Dunder Mifflin Microsoft Ads Account 586,CAMP-4402,Holiday Deals - Sticky Notes,Ontario,4077,156635,4081.77,340.62,67606.09
+ad_reporting__campaign_region_report,2024-05-01,pinterest_ads,57146,Dunder Mifflin Pinterest Ads Account 146,CAMP-9160,Bulk Discounts - Notebooks,England,1112,86270,490.95,55.89,4965.05
+ad_reporting__campaign_region_report,2024-05-01,pinterest_ads,59152,Dunder Mifflin Pinterest Ads Account 152,CAMP-4082,Office Essentials - Printer Paper,New York,1047,100362,928.87,56.39,9367.16
+ad_reporting__campaign_region_report,2024-05-01,pinterest_ads,65023,Dunder Mifflin Pinterest Ads Account 23,CAMP-8864,Sustainability - Notebooks,Ontario,1002,138888,828.2,42.08,5052.73
+ad_reporting__campaign_region_report,2024-05-01,pinterest_ads,73244,Dunder Mifflin Pinterest Ads Account 244,CAMP-5300,Holiday Deals - Notebooks,Ontario,1123,119526,1066.87,97.47,17070.22
+ad_reporting__campaign_region_report,2024-05-01,pinterest_ads,87610,Dunder Mifflin Pinterest Ads Account 610,CAMP-5438,Sustainability - Notebooks,Ontario,2130,156520,1880.1,204.42,28771.13
+ad_reporting__campaign_region_report,2024-05-01,pinterest_ads,15848,Dunder Mifflin Pinterest Ads Account 848,CAMP-9942,Sustainability - Cardstock,Tokyo,1736,141908,775.97,78.05,7229.55
+ad_reporting__campaign_region_report,2024-05-01,snapchat_ads,74106,Dunder Mifflin Snapchat Ads Account 106,CAMP-1403,Holiday Deals - Cardstock,California,3855,269415,2105.83,136.83,10936.39
+ad_reporting__campaign_region_report,2024-05-01,snapchat_ads,20541,Dunder Mifflin Snapchat Ads Account 541,CAMP-4170,Sustainability - Notebooks,Delhi NCR,1009,101433,325.93,44.04,3432.71
+ad_reporting__campaign_region_report,2024-05-01,snapchat_ads,49839,Dunder Mifflin Snapchat Ads Account 839,CAMP-3379,Sustainability - Sticky Notes,New South Wales,1813,193541,949.63,130.02,7353.99
+ad_reporting__campaign_region_report,2024-05-01,snapchat_ads,53225,Dunder Mifflin Snapchat Ads Account 225,CAMP-3472,Bulk Discounts - Cardstock,Ontario,1591,160039,468.14,64.23,5617.04
+ad_reporting__campaign_region_report,2024-05-01,snapchat_ads,70811,Dunder Mifflin Snapchat Ads Account 811,CAMP-2063,Holiday Deals - Notebooks,Texas,1507,174288,753.46,78.33,6703.22
+ad_reporting__campaign_region_report,2024-05-01,tiktok_ads,25071,Dunder Mifflin Tiktok Ads Account 71,CAMP-1778,Holiday Deals - Sticky Notes,Bavaria,4993,274243,3361.84,315.16,21180.72
+ad_reporting__campaign_region_report,2024-05-01,tiktok_ads,65872,Dunder Mifflin Tiktok Ads Account 872,CAMP-7426,Sustainability - Envelopes,New South Wales,2061,126683,978.56,147.96,12617.69
+ad_reporting__campaign_region_report,2024-05-01,tiktok_ads,18013,Dunder Mifflin Tiktok Ads Account 13,CAMP-4876,Bulk Discounts - Envelopes,Tokyo,2041,156165,1657.2,172.97,17593.15
+ad_reporting__campaign_region_report,2024-05-01,tiktok_ads,27512,Dunder Mifflin Tiktok Ads Account 512,CAMP-2397,Bulk Discounts - Printer Paper,Île-de-France,1881,156446,1479.74,147.34,17549.09
+ad_reporting__campaign_region_report,2024-05-01,twitter_ads,35390,Dunder Mifflin Twitter Ads Account 390,CAMP-1864,Sustainability - Cardstock,England,1923,139417,1432.1,110.03,14813.43
+ad_reporting__campaign_region_report,2024-05-01,twitter_ads,71712,Dunder Mifflin Twitter Ads Account 712,CAMP-8782,Holiday Deals - Envelopes,Quebec,2690,166449,1584.04,247.22,21867.6
+ad_reporting__campaign_region_report,2024-05-01,twitter_ads,84606,Dunder Mifflin Twitter Ads Account 606,CAMP-1444,Holiday Deals - Sticky Notes,Quebec,1322,82074,752.43,117.24,14425.06
+ad_reporting__campaign_region_report,2024-06-01,facebook_ads,18360,Dunder Mifflin Facebook Ads Account 360,,Account-level,New South Wales,3450,250652,3146.31,366.18,45957.19
+ad_reporting__campaign_region_report,2024-06-01,facebook_ads,70794,Dunder Mifflin Facebook Ads Account 794,,Account-level,New South Wales,1691,177777,1823.21,174.76,25752.6
+ad_reporting__campaign_region_report,2024-06-01,facebook_ads,71556,Dunder Mifflin Facebook Ads Account 556,,Account-level,New York,3261,285324,3613.66,189.35,25581.38
+ad_reporting__campaign_region_report,2024-06-01,facebook_ads,21242,Dunder Mifflin Facebook Ads Account 242,,Account-level,Texas,4352,303585,4737.61,331.23,42179.54
+ad_reporting__campaign_region_report,2024-06-01,facebook_ads,62413,Dunder Mifflin Facebook Ads Account 413,,Account-level,Texas,4420,308026,3283.78,243.85,16365.58
+ad_reporting__campaign_region_report,2024-06-01,facebook_ads,98893,Dunder Mifflin Facebook Ads Account 893,,Account-level,Texas,2762,201523,2296.56,304.45,39653.36
+ad_reporting__campaign_region_report,2024-06-01,linkedin_ads,18050,Dunder Mifflin Linkedin Ads Account 50,CAMP-1979,Holiday Deals - Notebooks,New South Wales,1000,64876,4739.1,62.62,23904.4
+ad_reporting__campaign_region_report,2024-06-01,linkedin_ads,27499,Dunder Mifflin Linkedin Ads Account 499,CAMP-1517,Office Essentials - Notebooks,Ontario,970,60713,4879.88,106.87,35865.35
+ad_reporting__campaign_region_report,2024-06-01,linkedin_ads,14339,Dunder Mifflin Linkedin Ads Account 339,CAMP-5792,Sustainability - Notebooks,Quebec,1107,76950,6238.8,144.03,40369.6
+ad_reporting__campaign_region_report,2024-06-01,linkedin_ads,29795,Dunder Mifflin Linkedin Ads Account 795,CAMP-7878,Sustainability - Notebooks,Texas,338,26139,1580.47,23.33,7259.28
+ad_reporting__campaign_region_report,2024-06-01,microsoft_ads,71870,Dunder Mifflin Microsoft Ads Account 870,CAMP-3505,Holiday Deals - Notebooks,Île-de-France,1691,116239,1299.6,126.54,29888.05
+ad_reporting__campaign_region_report,2024-06-01,pinterest_ads,48779,Dunder Mifflin Pinterest Ads Account 779,CAMP-9652,Bulk Discounts - Notebooks,California,1366,190764,1210.67,62.79,5285.23
+ad_reporting__campaign_region_report,2024-06-01,pinterest_ads,45912,Dunder Mifflin Pinterest Ads Account 912,CAMP-3536,Holiday Deals - Envelopes,Delhi NCR,1267,137840,892.61,122.72,11635.87
+ad_reporting__campaign_region_report,2024-06-01,pinterest_ads,86576,Dunder Mifflin Pinterest Ads Account 576,CAMP-7331,Sustainability - Sticky Notes,New York,835,67862,670.84,75.15,5271.61
+ad_reporting__campaign_region_report,2024-06-01,pinterest_ads,80114,Dunder Mifflin Pinterest Ads Account 114,CAMP-7929,Sustainability - Envelopes,Ontario,1631,145903,914.16,74.47,7539.09
+ad_reporting__campaign_region_report,2024-06-01,pinterest_ads,69384,Dunder Mifflin Pinterest Ads Account 384,CAMP-9376,Office Essentials - Sticky Notes,Tokyo,1244,121993,816.56,98.95,12660.48
+ad_reporting__campaign_region_report,2024-06-01,pinterest_ads,75579,Dunder Mifflin Pinterest Ads Account 579,CAMP-6954,Bulk Discounts - Envelopes,Île-de-France,250,19186,114.3,18.55,2101.61
+ad_reporting__campaign_region_report,2024-06-01,snapchat_ads,92599,Dunder Mifflin Snapchat Ads Account 599,CAMP-6845,Bulk Discounts - Sticky Notes,Bavaria,287,23695,181.76,19.76,1226.91
+ad_reporting__campaign_region_report,2024-06-01,snapchat_ads,39332,Dunder Mifflin Snapchat Ads Account 332,CAMP-2408,Bulk Discounts - Cardstock,New York,1603,117227,996.68,56.48,5625.87
+ad_reporting__campaign_region_report,2024-06-01,tiktok_ads,50522,Dunder Mifflin Tiktok Ads Account 522,CAMP-3703,Sustainability - Envelopes,Bavaria,2695,136759,1330.01,149.32,14525.59
+ad_reporting__campaign_region_report,2024-06-01,tiktok_ads,96351,Dunder Mifflin Tiktok Ads Account 351,CAMP-3835,Holiday Deals - Envelopes,Bavaria,1290,95135,721.76,123.49,10674.21
+ad_reporting__campaign_region_report,2024-06-01,tiktok_ads,16345,Dunder Mifflin Tiktok Ads Account 345,CAMP-1830,Bulk Discounts - Cardstock,Delhi NCR,4109,230240,1803.65,237.14,21859.4
+ad_reporting__campaign_region_report,2024-06-01,tiktok_ads,25179,Dunder Mifflin Tiktok Ads Account 179,CAMP-9560,Bulk Discounts - Printer Paper,Delhi NCR,2417,175094,1187.64,201.27,17406.47
+ad_reporting__campaign_region_report,2024-06-01,tiktok_ads,10359,Dunder Mifflin Tiktok Ads Account 359,CAMP-9125,Office Essentials - Printer Paper,England,3501,188547,2783.58,311.07,37355.61
+ad_reporting__campaign_region_report,2024-06-01,tiktok_ads,84204,Dunder Mifflin Tiktok Ads Account 204,CAMP-8050,Sustainability - Printer Paper,England,2531,137066,1292.28,234.87,14919.35
+ad_reporting__campaign_region_report,2024-06-01,tiktok_ads,63464,Dunder Mifflin Tiktok Ads Account 464,CAMP-6406,Holiday Deals - Sticky Notes,Texas,2848,217113,863.91,193.55,19875.2
+ad_reporting__campaign_region_report,2024-06-01,tiktok_ads,98425,Dunder Mifflin Tiktok Ads Account 425,CAMP-5917,Bulk Discounts - Envelopes,Île-de-France,435,29106,322.13,21.99,2363.42
+ad_reporting__campaign_region_report,2024-06-01,twitter_ads,52283,Dunder Mifflin Twitter Ads Account 283,CAMP-5246,Bulk Discounts - Notebooks,England,2591,164160,1070.24,142.99,20654.32
+ad_reporting__campaign_region_report,2024-06-01,twitter_ads,73576,Dunder Mifflin Twitter Ads Account 576,CAMP-2700,Bulk Discounts - Sticky Notes,New South Wales,1956,123238,1142.8,84.97,5864.54
+ad_reporting__campaign_region_report,2024-06-01,twitter_ads,14995,Dunder Mifflin Twitter Ads Account 995,CAMP-6067,Bulk Discounts - Notebooks,Ontario,1480,158112,958.55,85.5,8902.37
+ad_reporting__campaign_region_report,2024-06-01,twitter_ads,87555,Dunder Mifflin Twitter Ads Account 555,CAMP-7513,Holiday Deals - Printer Paper,Tokyo,3297,211601,1483.64,209.94,24134.33
+ad_reporting__campaign_region_report,2024-07-01,facebook_ads,22065,Dunder Mifflin Facebook Ads Account 65,,Account-level,Delhi NCR,2634,211414,2446.01,159.51,21936.4
+ad_reporting__campaign_region_report,2024-07-01,facebook_ads,44001,Dunder Mifflin Facebook Ads Account 1,,Account-level,England,2994,253668,2351.77,183.01,23053.99
+ad_reporting__campaign_region_report,2024-07-01,facebook_ads,37201,Dunder Mifflin Facebook Ads Account 201,,Account-level,New South Wales,1770,179908,1548.97,98.73,11182.37
+ad_reporting__campaign_region_report,2024-07-01,facebook_ads,28282,Dunder Mifflin Facebook Ads Account 282,,Account-level,New York,2953,324509,3491.64,229.83,24414.18
+ad_reporting__campaign_region_report,2024-07-01,facebook_ads,38293,Dunder Mifflin Facebook Ads Account 293,,Account-level,Quebec,3921,297789,3436.14,321.63,21715.68
+ad_reporting__campaign_region_report,2024-07-01,linkedin_ads,94362,Dunder Mifflin Linkedin Ads Account 362,CAMP-9302,Office Essentials - Envelopes,England,1060,81784,5364.52,114.22,18247.76
+ad_reporting__campaign_region_report,2024-07-01,linkedin_ads,55188,Dunder Mifflin Linkedin Ads Account 188,CAMP-1948,Holiday Deals - Sticky Notes,New South Wales,921,87986,1944.26,92.53,14378.57
+ad_reporting__campaign_region_report,2024-07-01,linkedin_ads,12084,Dunder Mifflin Linkedin Ads Account 84,CAMP-5286,Holiday Deals - Notebooks,New York,1339,93484,5737.87,154.08,44972.29
+ad_reporting__campaign_region_report,2024-07-01,linkedin_ads,63139,Dunder Mifflin Linkedin Ads Account 139,CAMP-9920,Office Essentials - Printer Paper,New York,1193,65565,2689.01,112.29,42881.63
+ad_reporting__campaign_region_report,2024-07-01,linkedin_ads,75118,Dunder Mifflin Linkedin Ads Account 118,CAMP-8021,Office Essentials - Printer Paper,Ontario,1153,82807,6759.18,75.02,14776.44
+ad_reporting__campaign_region_report,2024-07-01,linkedin_ads,66934,Dunder Mifflin Linkedin Ads Account 934,CAMP-5922,Office Essentials - Printer Paper,Tokyo,2506,140051,11965.62,289.76,70808.98
+ad_reporting__campaign_region_report,2024-07-01,microsoft_ads,36409,Dunder Mifflin Microsoft Ads Account 409,CAMP-3860,Sustainability - Envelopes,Delhi NCR,2471,150974,3090.39,377.52,48277.99
+ad_reporting__campaign_region_report,2024-07-01,microsoft_ads,86030,Dunder Mifflin Microsoft Ads Account 30,CAMP-3546,Holiday Deals - Cardstock,Delhi NCR,2945,153461,4002.17,409.92,48871.03
+ad_reporting__campaign_region_report,2024-07-01,microsoft_ads,48106,Dunder Mifflin Microsoft Ads Account 106,CAMP-8058,Office Essentials - Sticky Notes,England,5024,222584,3440.13,498.44,58131.9
+ad_reporting__campaign_region_report,2024-07-01,microsoft_ads,87901,Dunder Mifflin Microsoft Ads Account 901,CAMP-1760,Sustainability - Sticky Notes,New York,4630,226459,4005.45,679.92,128045.72
+ad_reporting__campaign_region_report,2024-07-01,microsoft_ads,23059,Dunder Mifflin Microsoft Ads Account 59,CAMP-7942,Holiday Deals - Sticky Notes,Texas,688,40999,708.84,93.99,13646.92
+ad_reporting__campaign_region_report,2024-07-01,microsoft_ads,49211,Dunder Mifflin Microsoft Ads Account 211,CAMP-8765,Bulk Discounts - Notebooks,Texas,2932,171277,3780.4,351.28,36930.54
+ad_reporting__campaign_region_report,2024-07-01,microsoft_ads,84504,Dunder Mifflin Microsoft Ads Account 504,CAMP-5017,Holiday Deals - Envelopes,Texas,1037,66648,1189.88,101.16,19336.56
+ad_reporting__campaign_region_report,2024-07-01,microsoft_ads,34191,Dunder Mifflin Microsoft Ads Account 191,CAMP-8148,Sustainability - Notebooks,Tokyo,3691,187592,2297.98,268.62,34033.54
+ad_reporting__campaign_region_report,2024-07-01,microsoft_ads,51271,Dunder Mifflin Microsoft Ads Account 271,CAMP-1183,Bulk Discounts - Notebooks,Tokyo,3822,176817,2531.41,300.82,37053.76
+ad_reporting__campaign_region_report,2024-07-01,pinterest_ads,34332,Dunder Mifflin Pinterest Ads Account 332,CAMP-8254,Bulk Discounts - Envelopes,Bavaria,993,77431,461.85,74.59,6112.54
+ad_reporting__campaign_region_report,2024-07-01,pinterest_ads,28499,Dunder Mifflin Pinterest Ads Account 499,CAMP-2360,Bulk Discounts - Envelopes,England,1198,94794,1037.35,57.56,9468.31
+ad_reporting__campaign_region_report,2024-07-01,pinterest_ads,45090,Dunder Mifflin Pinterest Ads Account 90,CAMP-9180,Bulk Discounts - Notebooks,England,1042,113954,1027.88,62.39,6028.86
+ad_reporting__campaign_region_report,2024-07-01,pinterest_ads,19763,Dunder Mifflin Pinterest Ads Account 763,CAMP-6089,Holiday Deals - Sticky Notes,New South Wales,2134,178765,1437.36,198.59,18203.67
+ad_reporting__campaign_region_report,2024-07-01,snapchat_ads,81225,Dunder Mifflin Snapchat Ads Account 225,CAMP-6588,Sustainability - Cardstock,California,3001,250991,1480.32,179.8,19067.11
+ad_reporting__campaign_region_report,2024-07-01,snapchat_ads,23026,Dunder Mifflin Snapchat Ads Account 26,CAMP-9390,Sustainability - Notebooks,Tokyo,1151,123938,336.37,78.49,7329.35
+ad_reporting__campaign_region_report,2024-07-01,snapchat_ads,19507,Dunder Mifflin Snapchat Ads Account 507,CAMP-7189,Bulk Discounts - Envelopes,Île-de-France,715,52900,414.84,23.14,2505.49
+ad_reporting__campaign_region_report,2024-07-01,snapchat_ads,28953,Dunder Mifflin Snapchat Ads Account 953,CAMP-6707,Office Essentials - Cardstock,Île-de-France,1776,139190,672.83,90.79,7054.0
+ad_reporting__campaign_region_report,2024-07-01,tiktok_ads,44250,Dunder Mifflin Tiktok Ads Account 250,CAMP-6463,Office Essentials - Printer Paper,Delhi NCR,1799,98035,1418.93,96.41,6415.63
+ad_reporting__campaign_region_report,2024-07-01,tiktok_ads,86309,Dunder Mifflin Tiktok Ads Account 309,CAMP-5644,Holiday Deals - Cardstock,England,2731,137305,1496.39,240.3,16657.45
+ad_reporting__campaign_region_report,2024-07-01,tiktok_ads,82403,Dunder Mifflin Tiktok Ads Account 403,CAMP-2635,Holiday Deals - Cardstock,New South Wales,3766,197410,2057.47,298.24,25113.81
+ad_reporting__campaign_region_report,2024-07-01,tiktok_ads,83127,Dunder Mifflin Tiktok Ads Account 127,CAMP-2457,Holiday Deals - Printer Paper,Tokyo,2073,140330,1659.18,97.98,11152.39
+ad_reporting__campaign_region_report,2024-08-01,facebook_ads,48302,Dunder Mifflin Facebook Ads Account 302,,Account-level,Bavaria,4152,277539,2907.71,222.54,27865.37
+ad_reporting__campaign_region_report,2024-08-01,linkedin_ads,21059,Dunder Mifflin Linkedin Ads Account 59,CAMP-8182,Bulk Discounts - Notebooks,England,1591,102919,9326.09,138.66,48778.27
+ad_reporting__campaign_region_report,2024-08-01,microsoft_ads,37053,Dunder Mifflin Microsoft Ads Account 53,CAMP-7456,Holiday Deals - Sticky Notes,New South Wales,5258,208849,4519.0,779.49,131518.75
+ad_reporting__campaign_region_report,2024-08-01,microsoft_ads,49038,Dunder Mifflin Microsoft Ads Account 38,CAMP-4523,Holiday Deals - Cardstock,New York,3589,144280,3786.93,262.12,64844.71
+ad_reporting__campaign_region_report,2024-08-01,microsoft_ads,31013,Dunder Mifflin Microsoft Ads Account 13,CAMP-2505,Sustainability - Cardstock,Ontario,2726,133677,3718.21,325.45,47062.08
+ad_reporting__campaign_region_report,2024-08-01,microsoft_ads,97609,Dunder Mifflin Microsoft Ads Account 609,CAMP-8994,Holiday Deals - Sticky Notes,Tokyo,4956,197058,6328.44,685.17,115321.56
+ad_reporting__campaign_region_report,2024-08-01,microsoft_ads,62286,Dunder Mifflin Microsoft Ads Account 286,CAMP-8325,Sustainability - Envelopes,Île-de-France,3662,149220,4529.16,481.42,73788.15
+ad_reporting__campaign_region_report,2024-08-01,pinterest_ads,55039,Dunder Mifflin Pinterest Ads Account 39,CAMP-7647,Sustainability - Cardstock,Bavaria,1934,200274,981.43,153.27,26881.57
+ad_reporting__campaign_region_report,2024-08-01,pinterest_ads,60958,Dunder Mifflin Pinterest Ads Account 958,CAMP-1771,Holiday Deals - Sticky Notes,California,1016,102813,734.39,98.2,12368.16
+ad_reporting__campaign_region_report,2024-08-01,pinterest_ads,88797,Dunder Mifflin Pinterest Ads Account 797,CAMP-7618,Sustainability - Printer Paper,England,1864,173535,1649.37,175.35,28725.23
+ad_reporting__campaign_region_report,2024-08-01,pinterest_ads,34034,Dunder Mifflin Pinterest Ads Account 34,CAMP-6427,Bulk Discounts - Sticky Notes,New South Wales,1015,87413,894.5,84.02,12847.06
+ad_reporting__campaign_region_report,2024-08-01,pinterest_ads,40797,Dunder Mifflin Pinterest Ads Account 797,CAMP-8877,Sustainability - Notebooks,New York,1128,82497,1097.52,52.65,6456.15
+ad_reporting__campaign_region_report,2024-08-01,pinterest_ads,82929,Dunder Mifflin Pinterest Ads Account 929,CAMP-7817,Sustainability - Notebooks,New York,1560,204326,1096.63,117.57,9689.06
+ad_reporting__campaign_region_report,2024-08-01,pinterest_ads,36084,Dunder Mifflin Pinterest Ads Account 84,CAMP-5065,Sustainability - Cardstock,Texas,64,5000,32.15,2.89,502.0
+ad_reporting__campaign_region_report,2024-08-01,snapchat_ads,50604,Dunder Mifflin Snapchat Ads Account 604,CAMP-1799,Sustainability - Sticky Notes,California,1558,181917,898.84,54.51,6278.27
+ad_reporting__campaign_region_report,2024-08-01,snapchat_ads,40679,Dunder Mifflin Snapchat Ads Account 679,CAMP-3488,Office Essentials - Cardstock,New South Wales,1724,140914,1136.09,101.9,8636.57
+ad_reporting__campaign_region_report,2024-08-01,snapchat_ads,95958,Dunder Mifflin Snapchat Ads Account 958,CAMP-3497,Bulk Discounts - Envelopes,Ontario,1685,189980,596.75,83.56,5294.52
+ad_reporting__campaign_region_report,2024-08-01,snapchat_ads,47191,Dunder Mifflin Snapchat Ads Account 191,CAMP-6740,Sustainability - Printer Paper,Quebec,842,81971,281.71,28.3,1183.83
+ad_reporting__campaign_region_report,2024-08-01,snapchat_ads,13832,Dunder Mifflin Snapchat Ads Account 832,CAMP-8321,Bulk Discounts - Notebooks,Tokyo,801,76818,238.64,60.38,3431.61
+ad_reporting__campaign_region_report,2024-08-01,tiktok_ads,77924,Dunder Mifflin Tiktok Ads Account 924,CAMP-7120,Bulk Discounts - Printer Paper,Bavaria,2080,119310,1460.3,117.48,8229.66
+ad_reporting__campaign_region_report,2024-08-01,tiktok_ads,24886,Dunder Mifflin Tiktok Ads Account 886,CAMP-6644,Office Essentials - Sticky Notes,New South Wales,2386,155023,1295.34,138.63,17735.46
+ad_reporting__campaign_region_report,2024-08-01,tiktok_ads,11677,Dunder Mifflin Tiktok Ads Account 677,CAMP-9269,Holiday Deals - Notebooks,New York,3342,234953,2924.68,320.13,17748.69
+ad_reporting__campaign_region_report,2024-08-01,tiktok_ads,60859,Dunder Mifflin Tiktok Ads Account 859,CAMP-3794,Bulk Discounts - Notebooks,Ontario,2100,135230,1051.78,147.73,8152.37
+ad_reporting__campaign_region_report,2024-08-01,twitter_ads,33026,Dunder Mifflin Twitter Ads Account 26,CAMP-2525,Sustainability - Notebooks,Bavaria,1259,132139,649.05,58.09,8194.23
+ad_reporting__campaign_region_report,2024-08-01,twitter_ads,93948,Dunder Mifflin Twitter Ads Account 948,CAMP-6173,Holiday Deals - Notebooks,California,393,27756,237.56,27.63,2865.67
+ad_reporting__campaign_region_report,2024-08-01,twitter_ads,31042,Dunder Mifflin Twitter Ads Account 42,CAMP-7738,Sustainability - Cardstock,Delhi NCR,1452,102699,736.44,138.43,21474.95
+ad_reporting__campaign_region_report,2024-08-01,twitter_ads,48696,Dunder Mifflin Twitter Ads Account 696,CAMP-5656,Bulk Discounts - Notebooks,Quebec,876,71990,443.31,43.06,2697.1
+ad_reporting__campaign_region_report,2024-08-01,twitter_ads,24273,Dunder Mifflin Twitter Ads Account 273,CAMP-8730,Bulk Discounts - Cardstock,Île-de-France,1638,137331,1245.59,136.29,13207.67
+ad_reporting__campaign_region_report,2024-09-01,facebook_ads,18334,Dunder Mifflin Facebook Ads Account 334,,Account-level,California,2183,226405,2562.49,144.13,13472.18
+ad_reporting__campaign_region_report,2024-09-01,facebook_ads,82047,Dunder Mifflin Facebook Ads Account 47,,Account-level,California,2184,137224,1174.87,197.73,18193.06
+ad_reporting__campaign_region_report,2024-09-01,facebook_ads,80328,Dunder Mifflin Facebook Ads Account 328,,Account-level,Delhi NCR,3623,232736,2813.39,209.36,19942.49
+ad_reporting__campaign_region_report,2024-09-01,facebook_ads,29409,Dunder Mifflin Facebook Ads Account 409,,Account-level,England,3387,302972,2949.51,243.9,29171.28
+ad_reporting__campaign_region_report,2024-09-01,facebook_ads,13347,Dunder Mifflin Facebook Ads Account 347,,Account-level,New York,5601,370668,3164.52,472.93,46958.77
+ad_reporting__campaign_region_report,2024-09-01,facebook_ads,15200,Dunder Mifflin Facebook Ads Account 200,,Account-level,Île-de-France,4891,313681,2611.81,562.43,83630.82
+ad_reporting__campaign_region_report,2024-09-01,facebook_ads,80361,Dunder Mifflin Facebook Ads Account 361,,Account-level,Île-de-France,2709,252576,1928.92,215.38,20669.03
+ad_reporting__campaign_region_report,2024-09-01,linkedin_ads,51146,Dunder Mifflin Linkedin Ads Account 146,CAMP-7854,Bulk Discounts - Notebooks,Bavaria,782,54591,2609.75,106.8,20999.12
+ad_reporting__campaign_region_report,2024-09-01,linkedin_ads,51254,Dunder Mifflin Linkedin Ads Account 254,CAMP-3442,Sustainability - Notebooks,Delhi NCR,2029,105241,7830.66,241.55,83993.23
+ad_reporting__campaign_region_report,2024-09-01,linkedin_ads,72442,Dunder Mifflin Linkedin Ads Account 442,CAMP-9775,Office Essentials - Notebooks,New York,1371,97115,3773.42,153.55,43866.48
+ad_reporting__campaign_region_report,2024-09-01,linkedin_ads,84750,Dunder Mifflin Linkedin Ads Account 750,CAMP-4605,Sustainability - Notebooks,Ontario,2041,124462,9022.68,180.01,39331.08
+ad_reporting__campaign_region_report,2024-09-01,linkedin_ads,91636,Dunder Mifflin Linkedin Ads Account 636,CAMP-2936,Sustainability - Sticky Notes,Quebec,1684,86739,5447.74,148.53,23541.77
+ad_reporting__campaign_region_report,2024-09-01,linkedin_ads,32115,Dunder Mifflin Linkedin Ads Account 115,CAMP-1561,Holiday Deals - Envelopes,Tokyo,920,55919,2254.72,59.13,15075.25
+ad_reporting__campaign_region_report,2024-09-01,microsoft_ads,11085,Dunder Mifflin Microsoft Ads Account 85,CAMP-7269,Office Essentials - Notebooks,California,3088,130797,2533.4,273.06,63590.83
+ad_reporting__campaign_region_report,2024-09-01,microsoft_ads,13433,Dunder Mifflin Microsoft Ads Account 433,CAMP-1828,Holiday Deals - Printer Paper,New South Wales,2091,128780,2147.24,290.31,62877.49
+ad_reporting__campaign_region_report,2024-09-01,microsoft_ads,64950,Dunder Mifflin Microsoft Ads Account 950,CAMP-3487,Holiday Deals - Cardstock,New South Wales,1807,103946,2262.75,152.91,22705.09
+ad_reporting__campaign_region_report,2024-09-01,microsoft_ads,67638,Dunder Mifflin Microsoft Ads Account 638,CAMP-3990,Sustainability - Printer Paper,New South Wales,1638,109422,1405.93,193.71,33814.53
+ad_reporting__campaign_region_report,2024-09-01,microsoft_ads,57723,Dunder Mifflin Microsoft Ads Account 723,CAMP-8619,Sustainability - Envelopes,New York,3283,142890,4152.66,384.27,41585.79
+ad_reporting__campaign_region_report,2024-09-01,microsoft_ads,15674,Dunder Mifflin Microsoft Ads Account 674,CAMP-9170,Holiday Deals - Notebooks,Ontario,3303,154933,3785.27,346.34,56034.07
+ad_reporting__campaign_region_report,2024-09-01,microsoft_ads,18638,Dunder Mifflin Microsoft Ads Account 638,CAMP-6447,Holiday Deals - Printer Paper,Tokyo,3740,166563,2820.66,333.12,71132.59
+ad_reporting__campaign_region_report,2024-09-01,pinterest_ads,58696,Dunder Mifflin Pinterest Ads Account 696,CAMP-1892,Sustainability - Envelopes,Delhi NCR,1334,189780,664.44,89.14,8778.2
+ad_reporting__campaign_region_report,2024-09-01,pinterest_ads,97737,Dunder Mifflin Pinterest Ads Account 737,CAMP-1601,Holiday Deals - Cardstock,England,1662,203877,772.73,118.5,19200.7
+ad_reporting__campaign_region_report,2024-09-01,pinterest_ads,71375,Dunder Mifflin Pinterest Ads Account 375,CAMP-3763,Office Essentials - Cardstock,New York,1346,96723,1116.77,93.27,7894.17
+ad_reporting__campaign_region_report,2024-09-01,pinterest_ads,11118,Dunder Mifflin Pinterest Ads Account 118,CAMP-4790,Bulk Discounts - Cardstock,Ontario,622,68385,294.23,42.46,7063.28
+ad_reporting__campaign_region_report,2024-09-01,pinterest_ads,38943,Dunder Mifflin Pinterest Ads Account 943,CAMP-1170,Bulk Discounts - Printer Paper,Ontario,1317,131554,611.41,80.8,7717.66
+ad_reporting__campaign_region_report,2024-09-01,pinterest_ads,33297,Dunder Mifflin Pinterest Ads Account 297,CAMP-9004,Bulk Discounts - Cardstock,Quebec,823,68783,390.49,60.1,8976.5
+ad_reporting__campaign_region_report,2024-09-01,snapchat_ads,13572,Dunder Mifflin Snapchat Ads Account 572,CAMP-4104,Holiday Deals - Printer Paper,Bavaria,3281,228994,833.9,110.29,6186.01
+ad_reporting__campaign_region_report,2024-09-01,snapchat_ads,31074,Dunder Mifflin Snapchat Ads Account 74,CAMP-3230,Sustainability - Cardstock,Bavaria,1905,129870,930.75,88.18,8203.99
+ad_reporting__campaign_region_report,2024-09-01,snapchat_ads,90791,Dunder Mifflin Snapchat Ads Account 791,CAMP-2398,Bulk Discounts - Printer Paper,Tokyo,635,58922,246.94,35.34,4082.93
+ad_reporting__campaign_region_report,2024-09-01,tiktok_ads,22802,Dunder Mifflin Tiktok Ads Account 802,CAMP-4839,Sustainability - Envelopes,Bavaria,2395,179411,1465.67,212.41,15303.84
+ad_reporting__campaign_region_report,2024-09-01,tiktok_ads,50806,Dunder Mifflin Tiktok Ads Account 806,CAMP-1205,Bulk Discounts - Notebooks,California,3263,173106,1673.62,233.19,25927.6
+ad_reporting__campaign_region_report,2024-09-01,tiktok_ads,75145,Dunder Mifflin Tiktok Ads Account 145,CAMP-5580,Holiday Deals - Notebooks,New South Wales,3308,184855,2597.74,257.85,20276.31
+ad_reporting__campaign_region_report,2024-09-01,tiktok_ads,50672,Dunder Mifflin Tiktok Ads Account 672,CAMP-2652,Office Essentials - Envelopes,New York,4319,222268,3371.34,400.79,29383.27
+ad_reporting__campaign_region_report,2024-09-01,tiktok_ads,14666,Dunder Mifflin Tiktok Ads Account 666,CAMP-8713,Sustainability - Notebooks,Quebec,3831,205078,1482.55,223.71,20124.11
+ad_reporting__campaign_region_report,2024-09-01,tiktok_ads,93060,Dunder Mifflin Tiktok Ads Account 60,CAMP-2118,Sustainability - Sticky Notes,Quebec,4395,234586,2276.04,374.05,46463.3
+ad_reporting__campaign_region_report,2024-09-01,twitter_ads,25392,Dunder Mifflin Twitter Ads Account 392,CAMP-4503,Office Essentials - Cardstock,Bavaria,1184,95848,582.1,96.95,11017.06
+ad_reporting__campaign_region_report,2024-09-01,twitter_ads,41957,Dunder Mifflin Twitter Ads Account 957,CAMP-6445,Bulk Discounts - Printer Paper,Delhi NCR,2360,151384,1745.82,174.74,28838.6
+ad_reporting__campaign_region_report,2024-09-01,twitter_ads,84550,Dunder Mifflin Twitter Ads Account 550,CAMP-3360,Office Essentials - Printer Paper,Texas,1907,189035,1285.88,135.49,16630.15
+ad_reporting__campaign_region_report,2024-09-01,twitter_ads,36778,Dunder Mifflin Twitter Ads Account 778,CAMP-4202,Bulk Discounts - Cardstock,Île-de-France,1443,129957,1121.76,123.94,16146.86
+ad_reporting__campaign_region_report,2024-10-01,facebook_ads,94489,Dunder Mifflin Facebook Ads Account 489,,Account-level,California,2303,255900,1276.21,143.34,10995.14
+ad_reporting__campaign_region_report,2024-10-01,facebook_ads,67965,Dunder Mifflin Facebook Ads Account 965,,Account-level,Delhi NCR,115,12183,128.13,7.57,957.32
+ad_reporting__campaign_region_report,2024-10-01,facebook_ads,52024,Dunder Mifflin Facebook Ads Account 24,,Account-level,New York,2599,176684,3067.39,147.64,12876.04
+ad_reporting__campaign_region_report,2024-10-01,facebook_ads,61650,Dunder Mifflin Facebook Ads Account 650,,Account-level,New York,3498,248321,3864.55,351.43,49559.96
+ad_reporting__campaign_region_report,2024-10-01,facebook_ads,41451,Dunder Mifflin Facebook Ads Account 451,,Account-level,Ontario,3851,285036,4370.85,303.7,25661.8
+ad_reporting__campaign_region_report,2024-10-01,facebook_ads,27202,Dunder Mifflin Facebook Ads Account 202,,Account-level,Texas,2611,203662,2256.91,186.34,24326.62
+ad_reporting__campaign_region_report,2024-10-01,facebook_ads,69066,Dunder Mifflin Facebook Ads Account 66,,Account-level,Texas,2591,235919,2439.32,183.96,17497.25
+ad_reporting__campaign_region_report,2024-10-01,facebook_ads,69621,Dunder Mifflin Facebook Ads Account 621,,Account-level,Texas,2588,241045,1985.18,206.84,15134.12
+ad_reporting__campaign_region_report,2024-10-01,facebook_ads,86766,Dunder Mifflin Facebook Ads Account 766,,Account-level,Texas,3280,211383,1873.69,340.6,26152.14
+ad_reporting__campaign_region_report,2024-10-01,facebook_ads,41383,Dunder Mifflin Facebook Ads Account 383,,Account-level,Île-de-France,5310,400582,3921.4,395.27,53372.86
+ad_reporting__campaign_region_report,2024-10-01,linkedin_ads,42106,Dunder Mifflin Linkedin Ads Account 106,CAMP-3452,Sustainability - Printer Paper,Delhi NCR,1675,87115,3651.31,171.65,64958.11
+ad_reporting__campaign_region_report,2024-10-01,linkedin_ads,24145,Dunder Mifflin Linkedin Ads Account 145,CAMP-6560,Bulk Discounts - Printer Paper,England,1178,69256,2934.11,121.45,21373.74
+ad_reporting__campaign_region_report,2024-10-01,linkedin_ads,26712,Dunder Mifflin Linkedin Ads Account 712,CAMP-6846,Sustainability - Printer Paper,New York,739,51104,3250.04,48.48,7325.54
+ad_reporting__campaign_region_report,2024-10-01,linkedin_ads,31571,Dunder Mifflin Linkedin Ads Account 571,CAMP-6612,Holiday Deals - Cardstock,Texas,999,81537,5344.17,77.4,23196.39
+ad_reporting__campaign_region_report,2024-10-01,linkedin_ads,45437,Dunder Mifflin Linkedin Ads Account 437,CAMP-6149,Bulk Discounts - Cardstock,Texas,581,43571,2452.99,66.98,10302.43
+ad_reporting__campaign_region_report,2024-10-01,linkedin_ads,85823,Dunder Mifflin Linkedin Ads Account 823,CAMP-5837,Office Essentials - Notebooks,Texas,540,50938,1475.64,72.0,27682.85
+ad_reporting__campaign_region_report,2024-10-01,microsoft_ads,48632,Dunder Mifflin Microsoft Ads Account 632,CAMP-4984,Office Essentials - Notebooks,Bavaria,2221,127788,3052.97,219.18,27783.1
+ad_reporting__campaign_region_report,2024-10-01,microsoft_ads,52259,Dunder Mifflin Microsoft Ads Account 259,CAMP-5956,Holiday Deals - Printer Paper,California,4782,238738,4365.72,460.72,100246.24
+ad_reporting__campaign_region_report,2024-10-01,microsoft_ads,81263,Dunder Mifflin Microsoft Ads Account 263,CAMP-4925,Sustainability - Cardstock,New South Wales,2394,99532,3308.23,217.04,23805.72
+ad_reporting__campaign_region_report,2024-10-01,microsoft_ads,40284,Dunder Mifflin Microsoft Ads Account 284,CAMP-7279,Sustainability - Sticky Notes,Ontario,3658,162062,2549.46,455.28,46468.17
+ad_reporting__campaign_region_report,2024-10-01,microsoft_ads,27835,Dunder Mifflin Microsoft Ads Account 835,CAMP-7962,Holiday Deals - Envelopes,Tokyo,7201,273870,8750.58,944.35,138360.4
+ad_reporting__campaign_region_report,2024-10-01,pinterest_ads,69485,Dunder Mifflin Pinterest Ads Account 485,CAMP-7093,Bulk Discounts - Cardstock,New South Wales,1642,186251,1298.75,115.94,9601.22
+ad_reporting__campaign_region_report,2024-10-01,pinterest_ads,29321,Dunder Mifflin Pinterest Ads Account 321,CAMP-1167,Sustainability - Cardstock,New York,1724,131171,1226.99,124.11,8999.75
+ad_reporting__campaign_region_report,2024-10-01,pinterest_ads,86623,Dunder Mifflin Pinterest Ads Account 623,CAMP-3397,Bulk Discounts - Envelopes,New York,2194,218804,1464.6,213.12,33787.45
+ad_reporting__campaign_region_report,2024-10-01,snapchat_ads,50806,Dunder Mifflin Snapchat Ads Account 806,CAMP-3209,Office Essentials - Sticky Notes,Bavaria,2812,221839,1798.97,121.89,8304.23
+ad_reporting__campaign_region_report,2024-10-01,snapchat_ads,63109,Dunder Mifflin Snapchat Ads Account 109,CAMP-3798,Holiday Deals - Cardstock,Delhi NCR,489,32738,167.39,16.02,1003.62
+ad_reporting__campaign_region_report,2024-10-01,snapchat_ads,74886,Dunder Mifflin Snapchat Ads Account 886,CAMP-5873,Sustainability - Cardstock,Delhi NCR,701,68739,306.36,22.67,2314.88
+ad_reporting__campaign_region_report,2024-10-01,snapchat_ads,23176,Dunder Mifflin Snapchat Ads Account 176,CAMP-2140,Bulk Discounts - Printer Paper,England,623,59409,342.64,28.3,3328.84
+ad_reporting__campaign_region_report,2024-10-01,snapchat_ads,27693,Dunder Mifflin Snapchat Ads Account 693,CAMP-9392,Bulk Discounts - Cardstock,New South Wales,912,73142,389.85,66.92,3059.59
+ad_reporting__campaign_region_report,2024-10-01,snapchat_ads,73200,Dunder Mifflin Snapchat Ads Account 200,CAMP-2317,Sustainability - Cardstock,Tokyo,1276,140934,849.82,89.13,8778.45
+ad_reporting__campaign_region_report,2024-10-01,tiktok_ads,90559,Dunder Mifflin Tiktok Ads Account 559,CAMP-6202,Bulk Discounts - Cardstock,New South Wales,1601,126550,1140.55,154.77,9911.03
+ad_reporting__campaign_region_report,2024-10-01,tiktok_ads,54337,Dunder Mifflin Tiktok Ads Account 337,CAMP-1525,Holiday Deals - Printer Paper,Ontario,2238,149337,1770.57,99.54,8103.9
+ad_reporting__campaign_region_report,2024-10-01,tiktok_ads,58362,Dunder Mifflin Tiktok Ads Account 362,CAMP-6731,Office Essentials - Cardstock,Ontario,2396,133429,1656.05,168.67,10222.72
+ad_reporting__campaign_region_report,2024-10-01,twitter_ads,17601,Dunder Mifflin Twitter Ads Account 601,CAMP-8716,Bulk Discounts - Notebooks,Delhi NCR,836,85632,667.76,64.87,10939.98
+ad_reporting__campaign_region_report,2024-10-01,twitter_ads,47524,Dunder Mifflin Twitter Ads Account 524,CAMP-1877,Bulk Discounts - Envelopes,Delhi NCR,1910,148776,1470.89,125.87,18083.89
+ad_reporting__campaign_region_report,2024-10-01,twitter_ads,38886,Dunder Mifflin Twitter Ads Account 886,CAMP-6053,Holiday Deals - Notebooks,Quebec,1570,145088,763.92,92.44,14210.74
+ad_reporting__campaign_region_report,2024-10-01,twitter_ads,16323,Dunder Mifflin Twitter Ads Account 323,CAMP-6830,Bulk Discounts - Cardstock,Tokyo,2136,216319,1053.97,206.24,22044.3
+ad_reporting__campaign_region_report,2024-10-01,twitter_ads,98388,Dunder Mifflin Twitter Ads Account 388,CAMP-8940,Holiday Deals - Printer Paper,Tokyo,1920,161846,810.93,157.23,13190.18
+ad_reporting__campaign_region_report,2024-10-01,twitter_ads,17201,Dunder Mifflin Twitter Ads Account 201,CAMP-7713,Office Essentials - Cardstock,Île-de-France,2217,205440,1015.7,117.13,11638.07
+ad_reporting__campaign_region_report,2024-10-01,twitter_ads,52385,Dunder Mifflin Twitter Ads Account 385,CAMP-2962,Holiday Deals - Cardstock,Île-de-France,1941,177127,1827.54,115.24,11130.54
+ad_reporting__campaign_region_report,2024-11-01,facebook_ads,94699,Dunder Mifflin Facebook Ads Account 699,,Account-level,Bavaria,4698,395114,3959.87,506.86,39193.58
+ad_reporting__campaign_region_report,2024-11-01,facebook_ads,34931,Dunder Mifflin Facebook Ads Account 931,,Account-level,California,2828,275881,1853.77,318.15,38148.15
+ad_reporting__campaign_region_report,2024-11-01,facebook_ads,33024,Dunder Mifflin Facebook Ads Account 24,,Account-level,New South Wales,3033,253154,2899.42,280.8,28442.49
+ad_reporting__campaign_region_report,2024-11-01,facebook_ads,66420,Dunder Mifflin Facebook Ads Account 420,,Account-level,New South Wales,4673,369332,4460.68,542.56,41518.62
+ad_reporting__campaign_region_report,2024-11-01,facebook_ads,88893,Dunder Mifflin Facebook Ads Account 893,,Account-level,Quebec,2884,203205,2242.23,330.97,25835.21
+ad_reporting__campaign_region_report,2024-11-01,facebook_ads,94648,Dunder Mifflin Facebook Ads Account 648,,Account-level,Quebec,4009,282321,4183.64,218.25,24522.12
+ad_reporting__campaign_region_report,2024-11-01,facebook_ads,39532,Dunder Mifflin Facebook Ads Account 532,,Account-level,Île-de-France,3718,283712,2607.88,375.46,39766.09
+ad_reporting__campaign_region_report,2024-11-01,facebook_ads,71364,Dunder Mifflin Facebook Ads Account 364,,Account-level,Île-de-France,4617,313221,5418.64,275.19,35225.06
+ad_reporting__campaign_region_report,2024-11-01,facebook_ads,73109,Dunder Mifflin Facebook Ads Account 109,,Account-level,Île-de-France,3730,320561,3212.33,369.43,46574.14
+ad_reporting__campaign_region_report,2024-11-01,linkedin_ads,44295,Dunder Mifflin Linkedin Ads Account 295,CAMP-6022,Holiday Deals - Sticky Notes,California,1928,128833,8436.65,174.71,51893.58
+ad_reporting__campaign_region_report,2024-11-01,linkedin_ads,41571,Dunder Mifflin Linkedin Ads Account 571,CAMP-6057,Office Essentials - Sticky Notes,England,1510,92651,6110.98,117.19,25237.77
+ad_reporting__campaign_region_report,2024-11-01,linkedin_ads,14854,Dunder Mifflin Linkedin Ads Account 854,CAMP-7002,Bulk Discounts - Cardstock,Île-de-France,337,24268,1177.63,31.51,6143.88
+ad_reporting__campaign_region_report,2024-11-01,microsoft_ads,15328,Dunder Mifflin Microsoft Ads Account 328,CAMP-1352,Sustainability - Cardstock,New York,4635,186833,6328.08,694.42,113460.72
+ad_reporting__campaign_region_report,2024-11-01,microsoft_ads,66333,Dunder Mifflin Microsoft Ads Account 333,CAMP-9401,Office Essentials - Sticky Notes,Quebec,891,42871,815.25,91.95,11002.49
+ad_reporting__campaign_region_report,2024-11-01,pinterest_ads,98891,Dunder Mifflin Pinterest Ads Account 891,CAMP-8153,Bulk Discounts - Sticky Notes,Bavaria,1314,145682,1273.76,118.01,15043.91
+ad_reporting__campaign_region_report,2024-11-01,pinterest_ads,44340,Dunder Mifflin Pinterest Ads Account 340,CAMP-3088,Holiday Deals - Cardstock,Delhi NCR,1914,188456,1395.39,135.42,12317.32
+ad_reporting__campaign_region_report,2024-11-01,pinterest_ads,44606,Dunder Mifflin Pinterest Ads Account 606,CAMP-1625,Sustainability - Notebooks,Delhi NCR,2203,188909,1549.38,135.86,22797.68
+ad_reporting__campaign_region_report,2024-11-01,pinterest_ads,27617,Dunder Mifflin Pinterest Ads Account 617,CAMP-5101,Holiday Deals - Envelopes,England,633,50633,604.85,56.03,5992.97
+ad_reporting__campaign_region_report,2024-11-01,pinterest_ads,96053,Dunder Mifflin Pinterest Ads Account 53,CAMP-7993,Bulk Discounts - Sticky Notes,Île-de-France,2821,207811,1897.68,249.44,23101.25
+ad_reporting__campaign_region_report,2024-11-01,snapchat_ads,22527,Dunder Mifflin Snapchat Ads Account 527,CAMP-5305,Sustainability - Envelopes,Delhi NCR,2877,221267,1000.13,203.22,21257.27
+ad_reporting__campaign_region_report,2024-11-01,snapchat_ads,60494,Dunder Mifflin Snapchat Ads Account 494,CAMP-9433,Holiday Deals - Sticky Notes,England,1542,104295,944.14,86.42,8407.57
+ad_reporting__campaign_region_report,2024-11-01,snapchat_ads,33448,Dunder Mifflin Snapchat Ads Account 448,CAMP-7031,Sustainability - Cardstock,New South Wales,1086,89602,283.47,57.66,2407.84
+ad_reporting__campaign_region_report,2024-11-01,snapchat_ads,30576,Dunder Mifflin Snapchat Ads Account 576,CAMP-6552,Office Essentials - Printer Paper,Ontario,1822,127158,584.62,76.38,3861.25
+ad_reporting__campaign_region_report,2024-11-01,snapchat_ads,43361,Dunder Mifflin Snapchat Ads Account 361,CAMP-3866,Office Essentials - Notebooks,Ontario,1246,151849,781.28,43.98,2153.6
+ad_reporting__campaign_region_report,2024-11-01,snapchat_ads,43036,Dunder Mifflin Snapchat Ads Account 36,CAMP-5870,Holiday Deals - Envelopes,Île-de-France,1051,99914,685.12,73.87,3422.36
+ad_reporting__campaign_region_report,2024-11-01,snapchat_ads,93922,Dunder Mifflin Snapchat Ads Account 922,CAMP-5228,Bulk Discounts - Cardstock,Île-de-France,241,21414,139.65,11.04,758.41
+ad_reporting__campaign_region_report,2024-11-01,tiktok_ads,39850,Dunder Mifflin Tiktok Ads Account 850,CAMP-1729,Bulk Discounts - Cardstock,California,4411,246589,1582.63,273.14,17796.79
+ad_reporting__campaign_region_report,2024-11-01,tiktok_ads,33522,Dunder Mifflin Tiktok Ads Account 522,CAMP-5669,Holiday Deals - Notebooks,Tokyo,2273,146025,1289.46,182.94,18237.92
+ad_reporting__campaign_region_report,2024-11-01,tiktok_ads,80476,Dunder Mifflin Tiktok Ads Account 476,CAMP-7313,Holiday Deals - Cardstock,Tokyo,2361,186941,1277.64,157.75,18176.4
+ad_reporting__campaign_region_report,2024-11-01,twitter_ads,95674,Dunder Mifflin Twitter Ads Account 674,CAMP-9805,Sustainability - Envelopes,Bavaria,803,67533,724.62,52.83,5715.36
+ad_reporting__campaign_region_report,2024-11-01,twitter_ads,54766,Dunder Mifflin Twitter Ads Account 766,CAMP-9812,Sustainability - Notebooks,Delhi NCR,1917,134401,913.18,108.77,7030.77
+ad_reporting__campaign_region_report,2024-11-01,twitter_ads,40611,Dunder Mifflin Twitter Ads Account 611,CAMP-3794,Bulk Discounts - Printer Paper,Quebec,508,43993,499.32,33.62,4530.22
+ad_reporting__campaign_region_report,2024-11-01,twitter_ads,35475,Dunder Mifflin Twitter Ads Account 475,CAMP-9508,Office Essentials - Envelopes,Tokyo,1989,118955,1683.27,123.75,12805.0
+ad_reporting__campaign_region_report,2024-11-01,twitter_ads,52430,Dunder Mifflin Twitter Ads Account 430,CAMP-6986,Holiday Deals - Printer Paper,Île-de-France,2844,203626,2843.11,239.07,25830.45
+ad_reporting__campaign_region_report,2024-12-01,linkedin_ads,38159,Dunder Mifflin Linkedin Ads Account 159,CAMP-5745,Sustainability - Cardstock,California,346,34291,1527.75,44.53,10106.32
+ad_reporting__campaign_region_report,2024-12-01,linkedin_ads,34333,Dunder Mifflin Linkedin Ads Account 333,CAMP-5661,Bulk Discounts - Printer Paper,England,566,29551,2718.22,50.13,19078.99
+ad_reporting__campaign_region_report,2024-12-01,linkedin_ads,15151,Dunder Mifflin Linkedin Ads Account 151,CAMP-5434,Bulk Discounts - Printer Paper,New South Wales,1299,66286,4845.85,129.55,26933.27
+ad_reporting__campaign_region_report,2024-12-01,linkedin_ads,92855,Dunder Mifflin Linkedin Ads Account 855,CAMP-3642,Office Essentials - Sticky Notes,Ontario,510,28071,2421.52,56.75,9485.19
+ad_reporting__campaign_region_report,2024-12-01,microsoft_ads,53811,Dunder Mifflin Microsoft Ads Account 811,CAMP-4877,Bulk Discounts - Notebooks,Bavaria,2635,145993,1859.04,381.46,56910.0
+ad_reporting__campaign_region_report,2024-12-01,microsoft_ads,54746,Dunder Mifflin Microsoft Ads Account 746,CAMP-4162,Office Essentials - Printer Paper,Bavaria,4454,208682,5752.03,352.02,50422.0
+ad_reporting__campaign_region_report,2024-12-01,microsoft_ads,73684,Dunder Mifflin Microsoft Ads Account 684,CAMP-2254,Holiday Deals - Cardstock,New South Wales,4125,183363,3986.03,447.89,47037.88
+ad_reporting__campaign_region_report,2024-12-01,microsoft_ads,99101,Dunder Mifflin Microsoft Ads Account 101,CAMP-3231,Office Essentials - Cardstock,New South Wales,6033,275689,5751.28,831.31,164350.25
+ad_reporting__campaign_region_report,2024-12-01,microsoft_ads,36412,Dunder Mifflin Microsoft Ads Account 412,CAMP-2105,Bulk Discounts - Notebooks,Ontario,1808,96404,1755.88,138.91,29723.39
+ad_reporting__campaign_region_report,2024-12-01,microsoft_ads,37974,Dunder Mifflin Microsoft Ads Account 974,CAMP-9820,Office Essentials - Printer Paper,Ontario,1666,110466,1222.98,224.03,47131.81
+ad_reporting__campaign_region_report,2024-12-01,microsoft_ads,70161,Dunder Mifflin Microsoft Ads Account 161,CAMP-5552,Holiday Deals - Cardstock,Quebec,2059,91864,1724.61,315.97,65871.57
+ad_reporting__campaign_region_report,2024-12-01,microsoft_ads,91573,Dunder Mifflin Microsoft Ads Account 573,CAMP-5989,Sustainability - Printer Paper,Quebec,2474,150702,2200.1,291.54,48717.67
+ad_reporting__campaign_region_report,2024-12-01,microsoft_ads,17697,Dunder Mifflin Microsoft Ads Account 697,CAMP-1687,Office Essentials - Cardstock,Texas,2330,93211,2923.17,211.83,30971.91
+ad_reporting__campaign_region_report,2024-12-01,microsoft_ads,64648,Dunder Mifflin Microsoft Ads Account 648,CAMP-9221,Holiday Deals - Sticky Notes,Texas,2577,121041,2353.46,342.56,84264.5
+ad_reporting__campaign_region_report,2024-12-01,microsoft_ads,49775,Dunder Mifflin Microsoft Ads Account 775,CAMP-3690,Sustainability - Cardstock,Tokyo,3472,143121,2325.17,541.18,98773.8
+ad_reporting__campaign_region_report,2024-12-01,pinterest_ads,68495,Dunder Mifflin Pinterest Ads Account 495,CAMP-5671,Sustainability - Sticky Notes,Delhi NCR,1049,142094,725.34,50.42,6127.54
+ad_reporting__campaign_region_report,2024-12-01,pinterest_ads,73745,Dunder Mifflin Pinterest Ads Account 745,CAMP-3294,Sustainability - Cardstock,Delhi NCR,735,103723,699.38,47.63,8409.96
+ad_reporting__campaign_region_report,2024-12-01,pinterest_ads,86132,Dunder Mifflin Pinterest Ads Account 132,CAMP-2948,Bulk Discounts - Sticky Notes,Delhi NCR,129,9535,70.5,7.57,578.15
+ad_reporting__campaign_region_report,2024-12-01,pinterest_ads,75734,Dunder Mifflin Pinterest Ads Account 734,CAMP-7142,Holiday Deals - Notebooks,Quebec,726,101278,292.31,40.21,7156.18
+ad_reporting__campaign_region_report,2024-12-01,snapchat_ads,41565,Dunder Mifflin Snapchat Ads Account 565,CAMP-5427,Bulk Discounts - Sticky Notes,Bavaria,1418,95847,839.35,111.03,12924.64
+ad_reporting__campaign_region_report,2024-12-01,snapchat_ads,73299,Dunder Mifflin Snapchat Ads Account 299,CAMP-7305,Sustainability - Cardstock,Bavaria,1781,191378,1081.57,136.48,10862.19
+ad_reporting__campaign_region_report,2024-12-01,snapchat_ads,96131,Dunder Mifflin Snapchat Ads Account 131,CAMP-8507,Office Essentials - Notebooks,England,1738,188167,759.26,93.28,6981.35
+ad_reporting__campaign_region_report,2024-12-01,snapchat_ads,49623,Dunder Mifflin Snapchat Ads Account 623,CAMP-7754,Sustainability - Envelopes,New York,1064,72804,488.03,57.4,2629.45
+ad_reporting__campaign_region_report,2024-12-01,snapchat_ads,48759,Dunder Mifflin Snapchat Ads Account 759,CAMP-3152,Sustainability - Notebooks,Ontario,2772,210988,1878.36,211.4,21578.86
+ad_reporting__campaign_region_report,2024-12-01,snapchat_ads,25047,Dunder Mifflin Snapchat Ads Account 47,CAMP-8319,Holiday Deals - Sticky Notes,Texas,587,43638,260.61,37.21,4314.01
+ad_reporting__campaign_region_report,2024-12-01,tiktok_ads,18188,Dunder Mifflin Tiktok Ads Account 188,CAMP-4099,Sustainability - Envelopes,Bavaria,1909,134273,694.17,126.64,9240.31
+ad_reporting__campaign_region_report,2024-12-01,tiktok_ads,75382,Dunder Mifflin Tiktok Ads Account 382,CAMP-8667,Office Essentials - Cardstock,California,3132,193065,1238.7,192.85,20873.7
+ad_reporting__campaign_region_report,2024-12-01,tiktok_ads,67810,Dunder Mifflin Tiktok Ads Account 810,CAMP-7446,Office Essentials - Envelopes,England,1328,69478,1100.84,92.31,10345.74
+ad_reporting__campaign_region_report,2024-12-01,tiktok_ads,58581,Dunder Mifflin Tiktok Ads Account 581,CAMP-6989,Bulk Discounts - Sticky Notes,New York,3255,227370,2620.85,222.76,22478.76
+ad_reporting__campaign_region_report,2024-12-01,tiktok_ads,94747,Dunder Mifflin Tiktok Ads Account 747,CAMP-3820,Holiday Deals - Cardstock,Île-de-France,3700,215451,2491.34,155.02,10946.78
+ad_reporting__campaign_region_report,2024-12-01,twitter_ads,63042,Dunder Mifflin Twitter Ads Account 42,CAMP-4833,Bulk Discounts - Sticky Notes,Delhi NCR,2004,146548,1134.95,110.79,10617.32
+ad_reporting__campaign_region_report,2024-12-01,twitter_ads,52388,Dunder Mifflin Twitter Ads Account 388,CAMP-3634,Office Essentials - Printer Paper,New South Wales,1076,95660,579.08,69.95,9678.86
+ad_reporting__campaign_region_report,2024-12-01,twitter_ads,90846,Dunder Mifflin Twitter Ads Account 846,CAMP-1585,Office Essentials - Envelopes,New York,362,28800,336.8,22.35,1667.24
+ad_reporting__campaign_region_report,2024-12-01,twitter_ads,87026,Dunder Mifflin Twitter Ads Account 26,CAMP-7812,Holiday Deals - Envelopes,Quebec,815,71147,564.82,55.17,3917.51
+ad_reporting__campaign_region_report,2024-12-01,twitter_ads,48644,Dunder Mifflin Twitter Ads Account 644,CAMP-4712,Office Essentials - Sticky Notes,Texas,2151,147918,1172.07,214.4,19673.04
